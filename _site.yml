@@ -1,0 +1,121 @@
+name: "PSYCH 260.001/BBH 203.001 Spring 2022"
+navbar:
+  title: "\u03A8 260/BBH 203"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Lectures"
+      menu:
+        - text: "Week 1"
+          menu:
+            - text: "Tue 2022-01-11"
+              href: 
+            - text: "Thu 2022-01-13"
+              href: 
+        - text: "Week 2"
+          menu:
+            - text: "Tue 2022-02-18"
+              href: 
+            - text: "Thu 2022-09-20"
+              href: 
+        - text: "Week 3"
+          menu:
+            - text: "Tue 2022-01-25"
+              href: 
+            - text: "Thu 2022-01-27"
+              href: 
+        - text: "Week 4"
+          menu:
+            - text: "Tue 2022-02-01"
+              href: 
+            - text: "Thu 2022-02-03"
+              href:
+        - text: "Week 5"
+          menu:
+          - text: "Tue 2022-02-08"
+            href: 
+          - text: "Thu 2022-02-10"
+            href: 
+        - text: "Week 6"
+          menu:
+          - text: "Tue 2022-02-15"
+            href: 
+          - text: "Thu 2022-02-17"
+            href: 
+        - text: "Week 7"
+          menu:
+          - text: "Tue 2022-02-22"
+            href: 
+          - text: "Thu 2022-02-24"
+            href: 
+        - text: "Week 8"
+          menu:
+          - text: "Tue 2022-03-01"
+            href:
+          - text: "Thu 2022-03-03"
+            href: 
+        - text: "Week 9"
+          menu:
+          - text: "Tue 2022-03-15"
+            href: 
+          - text: "Thu 2022-03-17"
+            href: 
+        - text: "Week 10"
+          menu:
+          - text: "Tue 2022-03-22"
+            href: 
+          - text: "Thu 2022-03-24"
+            href:
+        - text: "Week 11"
+          menu:
+          - text: "Tue 2022-03-29"
+            href: 
+          - text: "Thu 2022-03-31"
+        - text: "Week 12"
+          menu:
+          - text: "Tue 2022-04-05"
+            href: 
+          - text: "Thu 2022-04-07"
+            href: 
+        - text: "Week 13"
+          menu:
+          - text: "Thu 2022-04-12"
+            href: 
+          - text: "Thu 2022-04-14"
+            href: 
+        - text: "Week 14"
+          menu:
+          - text: "Tue 2022-04-19"
+            href: 
+          - text: "Thu 2022-04-21"
+            href: 
+        - text: "Week 15"
+          menu:
+          - text: "Tue 2022-04-26"
+            href: 
+          - text: "Thu 2022-04-28"
+            href: 
+    - text: "Evaluation"
+      href: evaluation.html
+    - text: "Deadlines"
+      href: deadlines.html
+    - text: "Policies"
+      href: policies.html
+    - text: "Values"
+      href: values.html
+    - text: "Syllabus"
+      href: "psych-260.001-spring-gilmore-syllabus.pdf"
+  right:
+    - text: "Site info"
+      href: site-info.html
+    - icon: ion-social-github
+      href: https://github.com/psu-psychology/psych-260-2022-spring/
+output_dir: "docs"
+output:
+  html_document:
+    theme: default
+    highlight: textmate
+    include:
+      after_body: footer.html

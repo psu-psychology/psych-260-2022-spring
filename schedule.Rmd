@@ -1,0 +1,367 @@
+---
+title: "Schedule"
+---
+
+*[W&B](http://3e.mindsmachine.com/) refers to the Watson & Breedlove text. Assignments are given in 'chapter:pages' format, e.g., 1:2-19 means read Chapter 1, pages 2-19.*
+
+## Week 1, January 10 - 14
+
+### Tuesday, January 11
+
+- Topics
+    - Introduction to the course
+    - A bit about systems
+- Assignments
+    - Read: W&B 1:3-21
+- Materials
+    - [Slides]() | [PDF]()
+
+### Thursday, January 13
+
+- Topics
+    - History of neuroscience
+    - Levels of analysis
+    - Neuroscience methods I
+- Assignments
+    - Review: <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>
+    - Scan: <https://faculty.washington.edu/chudler/hist.html>
+    - Read: W&B 1:3-21; 2:29, 48-51; 3:75-79.
+    - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
+    - Optional:
+        - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
+- Materials
+    - [Slides]() | [PDF]()
+
+---
+
+## Week 2, January 17 - 21
+
+### Tuesday, January 18
+
+- Topics
+    - Neuroscience methods II
+- Assignments
+    - Read: W&B 1:3-21; 2:29, 48-51; 3:75-79.
+    - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
+    - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
+- Materials
+    - [Slides] | [PDF]()
+
+### Thursday, January 20
+
+- Topics
+    - Neuroanatomy I
+- Assignments
+    - Read W&B 2:32-47
+- Materials
+    - [Slides]() | [PDF]()
+
+---
+
+## Week 3, January 24 - 28
+
+### Tuesday, January 25
+
+- Topics
+    - Neuroanatomy II
+- Assignments
+    - Read W&B 2:32-47 
+- Materials
+    - [Slides]() | [PDF]()
+
+### Thursday, January 27
+
+- Topics
+    - Neuroanatomy III
+    - **Quiz 1**, available on Canvas *after* class.
+- Assignments
+- Materials
+    - [Slides]() | [PDF]()
+
+---
+
+## Week 4, January 31 - February 4
+
+### Tuesday, February 1
+
+- Topics
+    - Cells of the nervous system
+    - How nerve cells compute (Neurophysiology I)
+- Assignments
+    - Read W&B: 2:23-32
+    - Read W&B: 3:55-59
+- Materials
+    - [Slides]() | [PDF]()
+
+### Thursday, February 3
+
+- Topics
+    - Neurophysiology II
+- Assignments
+    - Read W&B: 3:55-70
+    - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
+- Materials
+    - [Slides]() | [PDF]().
+
+---
+
+## Week 5, February 7 - 11
+
+### Tuesday, February 8
+
+- Topics
+    - Neurophysiology III
+    - Exam 1 Review
+
+- Assignments
+    - Read W&B 3:70-75
+- Materials
+    - [Slides]() | [PDF]().
+    - [Exam 1 Study Guide]().
+    
+### Thursday, February 10
+
+- Topics
+    - **Exam 1**
+
+---
+
+## Week 6, February 14 - 18
+
+### Tuesday, February 15
+
+- Topics
+    - Neurochemistry I
+- Assignments
+    -  Read W&B 4:83-92, 96-100
+- Materials
+    - [Slides]() | [PDF]()
+    
+### Thursday, February 17
+
+- Topics
+    - Neurochemistry II
+- Assignments
+    -  Read W&B 4:83-92, 96-100
+- Materials
+    - [Slides]() | [PDF]()
+
+---
+
+## Week 7, February 21 - 25
+
+### Tuesday, February 22
+
+- Topics
+    - Hormones and the brain
+    - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
+    - **Quiz 2**, available on Canvas *after* class.
+- Assignments
+    - Read W&B 8:217-234
+- Materials
+    - [Slides]() | [PDF]()
+
+### Thursday, February 24
+
+- Topics
+    - Evolution of the human brain.
+    - Review for Exam 2
+- Materials
+    - [Slides](). [PDF]()
+    - [Exam 2 Study Guide]()
+
+---
+    
+## Week 8, February 28 - March 4
+
+### Tuesday, March 1
+
+- Topics
+    - **Exam  2**, on Canvas.
+
+### Thursday, March 3
+
+- Topics
+    - Development of the human brain
+- Materials
+
+---
+
+## Spring Break, March 7 - March 11
+
+**NO CLASS**
+    
+---
+
+## Week 9, March 7 - 11
+
+### Tuesday, March 8
+
+- Topic
+    - Psychopathology I: Depression & Bipolar disorder
+- Assignments
+    - Read W&B 12:361-371
+- Materials
+    - [Slides]() | [PDF]()
+    
+### Thursday, March 10
+
+- Topics
+    - Psychopathology II: Schizophrenia.
+- Assignments
+    - Read W&B 12:347-360.
+- Materials
+    - [Slides]() | [PDF](). 
+
+---
+
+## Week 9, March 14-18
+
+#### Tuesday, March 15
+
+- Topics
+    - Emotion
+    - Happiness & reward
+    - Fear & stress
+- Assignments
+    - Read W&B 11:319-333, 337-344.
+- Materials
+    - [Slides]() | [PDF]()
+
+### Thursday, March 17
+
+- Topics
+    - Emotion II
+    - **Quiz 3**, available on Canvas *after* class.
+
+---
+
+## Week 10, March 21-25
+
+### Tuesday, March 22
+
+- Topics
+    - Sensory systems
+    - Somatosensation I
+- Assignments
+    - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) 
+    - Read W&B 5:119-150
+    - Read W&B 11:337-347
+- Materials
+    - [Slides]() | [PDF]()
+
+### Thursday, March 24
+
+- Topics
+    - Somatosensation II
+    - Action I
+- Assignments
+- Materials
+    - [Slides]() | [PDF]()
+    
+---
+
+## Week 11, March 28 - April 1
+
+### Tuesday, March 29
+
+- Topics
+    - Action II
+- Materials
+    - [Slides]() | [PDF]()
+    - [Exam 3 Study Guide]()
+
+### Thursday, March 31
+
+- Topics
+    - Vision I
+    - Review for Exam 3
+- Assignments
+    - Read W&B 7:183-201
+- Materials
+    - [Slides]() | [PDF]()
+    - [Exam 3 Study Guide]() 
+
+---
+
+## Week 12, April 4-8
+
+### Tuesday, April 5
+
+- Topics
+    - **Exam 3**
+    
+### Thursday, April 7
+
+- Topics
+    - Vision II
+- Assignments
+    - Read W&B 7:201-215.
+- Materials
+    - [Slides]() | [PDF]()
+    
+---
+
+## Week 13, April 11-15
+
+### Tuesday, April 12
+
+- Topics
+    - Learning & memory
+- Assignments
+    - Read W&B 13:379-391.
+- **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
+- Materials
+    - [Slides]() | [PDF]()
+    
+### Thursday, April 14
+
+- Topics
+    - Learning & memory II
+- Assignments
+    - Read W&B 13:392-401.
+- Materials
+    - [Slides]() | [PDF]()
+
+---
+
+## Week 14, April 18-22
+
+### Tuesday, April 19
+
+- Topics
+    - Reproducibility in neuroscience
+
+### Thursday, April 21
+
+- Topics
+    - **No lecture**
+    - **Quiz 4**, available on Canvas *after* class.
+
+---
+
+## Week 15, April 25 - 29
+
+### Tuesday, April 26
+
+- Topics
+    - Speed of nervous system conduction lab
+- Materials
+    - [Slides](). [PDF]().
+
+### Thursday, April 28
+
+- Topics
+    - Review for Exam 4.
+    - Frontiers & careers in neuroscience
+    - The Cerebral Symphony
+- Materials
+    - [Exam 4 Study Guide]().
+
+---
+    
+## Finals Week, May 2 - 6
+
+### TBD
+
+- **Exam 4**
