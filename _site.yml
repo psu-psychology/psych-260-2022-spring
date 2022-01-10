@@ -11,7 +11,7 @@ navbar:
         - text: "Week 1"
           menu:
             - text: "Tue 2022-01-11"
-              href: 
+              href: "lectures/260-2022-01-11-intro.html"
             - text: "Thu 2022-01-13"
               href: 
         - text: "Week 2"

@@ -14,7 +14,7 @@ title: "Schedule"
 - Assignments
     - Read: W&B 1:3-21
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-01-11-intro.html) | [PDF](lectures/260-2022-01-11-intro.pdf)
 
 ### Thursday, January 13
 

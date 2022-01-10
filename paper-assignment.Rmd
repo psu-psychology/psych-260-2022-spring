@@ -9,7 +9,7 @@ knitr::opts_chunk$set(cache = TRUE)
 ## Format, due date
 
 - **3-5 pages double-spaced**, worth 15 points
-- Due **Tuesday, November 30, 2021 at 5:00 pm**.
+- Due **Tuesday, April 12, 2022 at 5:00 pm**.
 
 ## Assignment
 
@@ -26,7 +26,7 @@ Choose two articles from the popular or scientific press on the same issue or re
 
 ## How to submit
 
-Send an email to Dr. Gilmore and the TA. Attach your paper with the message.
+Send an email to Dr. Gilmore and the TA via Canvas. Attach your paper with the message.
 
 ## Sources
 
