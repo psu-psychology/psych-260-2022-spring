@@ -14,6 +14,12 @@ output:
   github_document: default
 ---
 
+```{r, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      cache=FALSE, 
+                      fig.align = "center")
+```
+
 ## Prelude
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JB7jSFeVz1U" frameborder="0" allowfullscreen></iframe>
@@ -199,6 +205,7 @@ Professor of Psychology</br>
     + has led to huge advances in human health and prosperity over the last several centuries
     + will be essential for maintaining and extending those advances in the future
     + Example: Rapid development and deployment of multiple, effective, and safe vaccines for SARS-CoV-2 that sharply reduce severe illness and death.
+    
 ---
 
 <iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&facet=none&uniformYAxis=0&pickerSort=desc&pickerMetric=gdp_per_capita&Metric=Case+fatality+rate&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false&country=SGP~USA~JPN~DEU~GBR~CAN~FRA~ITA&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -217,6 +224,12 @@ Professor of Psychology</br>
 - "Coronavirus gets its name because of its crown-like shape."
 - "Coronavirus appears to have originated in non-human animals in China."
 - "Viruses reproduce (and cause illness) by forcing host organisms to create massive quantities of the virus that then spread to others."
+
+---
+
+```{r, fig.cap="www.evogeneao.com"}
+knitr::include_graphics("https://evogeneao.s3.amazonaws.com/images/tree_of_life/tree-of-life_1000.png")
+```
 
 ## Differences among sciences
 
