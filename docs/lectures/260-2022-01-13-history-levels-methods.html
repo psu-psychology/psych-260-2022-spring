@@ -1,0 +1,891 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PSYCH 260/BBH 203</title>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="generator" content="pandoc" />
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
+  <base target="_blank">
+
+  <script type="text/javascript">
+    var SLIDE_CONFIG = {
+      // Slide settings
+      settings: {
+                title: 'PSYCH 260/BBH 203',
+                        subtitle: 'History &amp; Methods',
+                useBuilds: true,
+        usePrettify: true,
+        enableSlideAreas: true,
+        enableTouch: true,
+                      },
+
+      // Author information
+      presenters: [
+            {
+        name:  'Rick O. Gilmore' ,
+        company: '',
+        gplus: '',
+        twitter: '',
+        www: '',
+        github: ''
+      },
+            ]
+    };
+  </script>
+
+  <script src="260-2022-01-13-history-levels-methods_files/header-attrs-2.11/header-attrs.js"></script>
+  <link href="260-2022-01-13-history-levels-methods_files/ioslides-13.5.1/fonts/fonts.css" rel="stylesheet" />
+  <link href="260-2022-01-13-history-levels-methods_files/ioslides-13.5.1/theme/css/default.css" rel="stylesheet" />
+  <link href="260-2022-01-13-history-levels-methods_files/ioslides-13.5.1/theme/css/phone.css" rel="stylesheet" />
+  <script src="260-2022-01-13-history-levels-methods_files/ioslides-13.5.1/js/modernizr.custom.45394.js"></script>
+  <script src="260-2022-01-13-history-levels-methods_files/ioslides-13.5.1/js/prettify/prettify.js"></script>
+  <script src="260-2022-01-13-history-levels-methods_files/ioslides-13.5.1/js/prettify/lang-r.js"></script>
+  <script src="260-2022-01-13-history-levels-methods_files/ioslides-13.5.1/js/prettify/lang-yaml.js"></script>
+  <script src="260-2022-01-13-history-levels-methods_files/ioslides-13.5.1/js/hammer.js"></script>
+  <script src="260-2022-01-13-history-levels-methods_files/ioslides-13.5.1/js/slide-controller.js"></script>
+  <script src="260-2022-01-13-history-levels-methods_files/ioslides-13.5.1/js/slide-deck.js"></script>
+
+  <style type="text/css">
+
+    b, strong {
+      font-weight: bold;
+    }
+
+    em {
+      font-style: italic;
+    }
+
+    summary {
+      display: list-item;
+    }
+
+    slides > slide {
+      -webkit-transition: all 0.4s ease-in-out;
+      -moz-transition: all 0.4s ease-in-out;
+      -o-transition: all 0.4s ease-in-out;
+      transition: all 0.4s ease-in-out;
+    }
+
+    .auto-fadein {
+      -webkit-transition: opacity 0.6s ease-in;
+      -webkit-transition-delay: 0.4s;
+      -moz-transition: opacity 0.6s ease-in 0.4s;
+      -o-transition: opacity 0.6s ease-in 0.4s;
+      transition: opacity 0.6s ease-in 0.4s;
+      opacity: 0;
+    }
+/* https://github.com/ropensci/plotly/pull/524#issuecomment-468142578 */
+slide:not(.current) .plotly.html-widget{
+  display: block;
+}
+
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+            
+  </style>
+
+  <link rel="stylesheet" href="css/ioslides.css" type="text/css" />
+
+</head>
+
+<body style="opacity: 0">
+
+<slides class="layout-widescreen">
+
+  <slide class="title-slide segue nobackground">
+        <!-- The content of this hgroup is replaced programmatically through the slide_config.json. -->
+    <hgroup class="auto-fadein">
+      <h1 data-config-title><!-- populated from slide_config.json --></h1>
+      <h2 data-config-subtitle><!-- populated from slide_config.json --></h2>
+      <p data-config-presenter><!-- populated from slide_config.json --></p>
+            <p style="margin-top: 6px; margin-left: -2px;">2022-01-12 12:44:26</p>
+          </hgroup>
+  </slide>
+
+<slide class=""><hgroup><h2>Prelude (9:01)</h2></hgroup><article  id="prelude-901">
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allowfullscreen>
+
+</iframe>
+
+<aside class='note'><section><p>Classic &ldquo;Powers of Ten&rdquo; movie by Charles and Ray Eames (10 min).</p></section></aside>
+
+</article></slide><slide class=""><hgroup><h2>Today’s topics</h2></hgroup><article  id="todays-topics">
+
+<ul>
+<li>History of neuroscience</li>
+<li>Levels of analysis</li>
+<li>Methods to the madness</li>
+</ul>
+
+<!-- ## History of neuroscience -->
+
+<!-- - History of the study of brain and behavior -->
+
+<!-- - What did humans know about brain and behavior *before* the emergence of the scientific method? -->
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Warm-up</h2></hgroup><article  id="warm-up">
+
+</article></slide><slide class=""><hgroup><h2>Neuroscience is harder than physics because…</h2></hgroup><article  id="neuroscience-is-harder-than-physics-because">
+
+<ul>
+<li>A. The brain has more parts than any other physical entity we know about.</li>
+<li>B. Physicists have largely ignored biology.</li>
+<li>C. Nervous systems are influenced by multiple factors we can’t (yet) measure effectively.</li>
+<li>D. Physicists only study &ldquo;toy&rdquo; problems.</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Neuroscience is harder than physics because…</h2></hgroup><article  id="neuroscience-is-harder-than-physics-because-1">
+
+<ul>
+<li>A. <del>The brain has more parts than any other physical entity we know about.</del></li>
+<li>B. <del>Physicists have largely ignored biology.</del></li>
+<li>C. Nervous systems are influenced by multiple factors we can’t (yet) measure effectively.</li>
+<li>D. <del>Physicists only study &ldquo;toy&rdquo; problems.</del></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Systems have all of the following components EXCEPT:</h2></hgroup><article  id="systems-have-all-of-the-following-components-except">
+
+<ul>
+<li>A. Boundaries</li>
+<li>B. Components</li>
+<li>C. Interactions among components</li>
+<li>D. Inputs and outputs</li>
+<li>E. Readily predictable behavior</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Systems have all of the following components EXCEPT:</h2></hgroup><article  id="systems-have-all-of-the-following-components-except-1">
+
+<ul>
+<li>A. Boundaries</li>
+<li>B. Components</li>
+<li>C. Interactions among components</li>
+<li>D. Inputs and outputs</li>
+<li>E. <span class="red">
+Readily predictable behavior</span></li>
+</ul>
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>History of neuroscience</h2></hgroup><article  id="history-of-neuroscience">
+
+</article></slide><slide class=""><hgroup><h2>Why study history?</h2></hgroup><article  id="why-study-history">
+
+<ul>
+<li>What can <em>observation</em> tell us about brain and behavior?</li>
+<li>Vital role of <em>tools/methods/techniques</em> in discovery</li>
+<li><em>&ldquo;If I have seen further, it is by standing on the shoulders of giants.&rdquo;</em> – Isaac Newton, 1676</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<div class="centered">
+<p><a href="https://www.youtube.com/watch?v=S0HKupSZq8k"> <iframe width="560" height="315" src="https://www.youtube.com/embed/S0HKupSZq8k" frameborder="0" allowfullscreen></iframe> </a></p></div>
+
+<!-- # Pre/Early history -->
+
+<!-- ## [*Trephining* (trepanning)](https://en.wikipedia.org/wiki/Trepanning) -->
+
+<!-- <div class="centered"> -->
+
+<!-- <a href="http://www.news.ucsb.edu/sites/www.news.ucsb.edu/files/slideshow_images/2013/Kurin-Trepanation1.jpg"><img src="http://www.news.ucsb.edu/sites/www.news.ucsb.edu/files/slideshow_images/2013/Kurin-Trepanation1.jpg" height=500px/> -->
+
+<!-- </a> -->
+
+<!-- </div> -->
+
+<!-- ## Trephining -->
+
+<!-- <div class="centered"> -->
+
+<!-- <a href="http://i2.cdn.turner.com/cnnnext/dam/assets/150414123319-ancient-trepanning-super-169.jpg"> -->
+
+<!-- <img src="http://i2.cdn.turner.com/cnnnext/dam/assets/150414123319-ancient-trepanning-super-169.jpg" height=500px/> -->
+
+<!-- </a> -->
+
+<!-- </div> -->
+
+<!-- ## [Beer-making (~5,000 BCE)](https://en.wikipedia.org/wiki/History_of_beer) -->
+
+<!-- <div class="centered"> -->
+
+<!-- <a href="http://www.beerintheworld.com/images/history/history001.gif"><img src="http://www.beerintheworld.com/images/history/history001.gif" height=550px> -->
+
+<!-- </a> -->
+
+<!-- </div> -->
+
+<!-- ## Egyptians (1,500-3,000 BCE) first written record of the term “brain” -->
+
+<!-- <div class="centered"> -->
+
+<!-- <a href="http://faculty.washington.edu/chudler/gif/papybr.gif"> -->
+
+<!-- <img src="http://faculty.washington.edu/chudler/gif/papybr.gif" width=450px/> -->
+
+<!-- </a> -->
+
+<!-- </div> -->
+
+<!-- # Greek and Roman era -->
+
+<!-- ## Greeks -->
+
+<!-- - [*Hippocrates*](https://en.wikipedia.org/wiki/Hippocrates) -->
+
+<!-- - [*Aristotle* (335 BCE)](https://en.wikipedia.org/wiki/Aristotle) -->
+
+<!-- ---- -->
+
+<!-- <div class="centered"> -->
+
+<!-- <a href="http://classicalwisdom.com/wp-content/uploads/2013/02/aristotle-face-1.jpg"><img src="http://classicalwisdom.com/wp-content/uploads/2013/02/aristotle-face-1.jpg" height=500px/> -->
+
+<!-- </a> -->
+
+<!-- </div> -->
+
+<!-- ## Aristotle on the mind and brain -->
+
+<!-- - mind and body not distinct. -->
+
+<!-- - brain “cools” the body, *heart* is the mental organ. -->
+
+<!-- ## [*Galen* (~177 CE)](https://en.wikipedia.org/wiki/Galen) -->
+
+<!-- <div class="centered" -->
+
+<!-- <a href="http://images.fineartamerica.com/images-medium-large/5-galen-greek-physician-and-philosopher-science-source.jpg"> -->
+
+<!-- <img src="http://images.fineartamerica.com/images-medium-large/5-galen-greek-physician-and-philosopher-science-source.jpg" height=500px/> -->
+
+<!-- </a> -->
+
+<!-- </div> -->
+
+<!-- ## Galen and his ideas -->
+
+<!-- - Physician in Roman Empire, of Greek descent -->
+
+<!-- - Anatomical reports based on dissection of monkeys, pigs -->
+
+<!-- - Influenced by Hippocrates notion of human temperaments (~personalities) linked to "humors": blood, black bile, yellow bile, phlegm -->
+
+<!-- - Speculated that fluid filling the brain cavities called *ventricles*, circulates through nerves, body -->
+
+<!-- - Gladiators' head injuries impaired thinking, movement -->
+
+<!-- ## Ventricles -->
+
+<!-- <div class="centered"> -->
+
+<!-- <a href="http://www.cerebromente.org.br/n06/historia/am1.gif"><img src="http://www.cerebromente.org.br/n06/historia/am1.gif"/> -->
+
+<!-- </a> -->
+
+<!-- </div> -->
+
+</article></slide><slide class=""><hgroup><h2>What did early humans know about the mind and brain?</h2></hgroup><article  id="what-did-early-humans-know-about-the-mind-and-brain">
+
+<ul>
+<li>Mental functions controlled by organs in the head, i.e., the brain</li>
+<li>Mental functions can be influenced by substances we consume</li>
+<li>Head injury can impair behavior and thinking</li>
+<li>Something flows from brain to body via nerves</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Why didn’t they know more?</h2></hgroup><article  id="why-didnt-they-know-more">
+
+</article></slide><slide class=""><hgroup><h2>Why didn’t they know more?</h2></hgroup><article  id="why-didnt-they-know-more-1">
+
+<ul>
+<li>A. Limited technology.</li>
+<li>B. Limited cultural support for systematic observation &amp; description. = SCIENCE</li>
+<li>C. Lack of ability to use knowledge even if it were acquired.</li>
+</ul>
+
+<!-- ## The "dark" ages (in Europe, not elsewhere) -->
+
+<!-- - [Ibn al-Haytham's](https://en.wikipedia.org/wiki/Alhazen) *Optics*, ~1000 CE -->
+
+<!-- - [Mansur's *Anatomy*](https://exhibitions.lib.cam.ac.uk/vesalius/artifacts/mansurs-anatomy/) ~1400 CE -->
+
+<!-- # Renaissance and the Enlightenment: New technologies, new ideas -->
+
+<!-- ## *Vesalius* (1543) -->
+
+<!-- - 1st detailed drawings of brain and body anatomy -->
+
+<!-- ## Vesalius' drawings -->
+
+<!-- <div class="centered"> -->
+
+<!-- <a href="https://upload.wikimedia.org/wikipedia/commons/a/a7/Vesalius_609c.png"> -->
+
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Vesalius_609c.png" height=500px/> -->
+
+<!-- </a> -->
+
+<!-- </div> -->
+
+<!-- ## *Leonardo da Vinci* (1504) -->
+
+<!-- - Wax casts of ventricles -->
+
+<!--     - fluid filled inner regions of brain -->
+
+<!-- - Ventricles not spherical! -->
+
+<!-- ## da Vinci's sketches -->
+
+<!-- <div class="centered"> -->
+
+<!-- <a href="http://www.unige.ch/cyberdocuments/theses2003/RivaraC-B/images/fig.1.jpg"> -->
+
+<!-- <img src="http://www.unige.ch/cyberdocuments/theses2003/RivaraC-B/images/fig.1.jpg"/> -->
+
+<!-- </a> -->
+
+<!-- </div> -->
+
+</article></slide><slide class=""><hgroup><h2>The body as machine (René Descartes – mid 1600’s)</h2></hgroup><article  id="the-body-as-machine-rené-descartes-mid-1600s">
+
+<div class="centered">
+
+<p><a href="img/automata_duck.jpg"> <img src="img/automata_duck.jpg" height=450px/> </a></p>
+
+</article></slide><slide class=""><hgroup><h2>Descartes’ &lsquo;reflexes&rsquo;</h2></hgroup><article  id="descartes-reflexes">
+
+<ul>
+<li>Reflexes &ldquo;reflect&rdquo; events in the world</li>
+<li>Not the same as voluntary functions</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Descartes’ reflexes</h2></hgroup><article  id="descartes-reflexes-1">
+
+<div class="centered">
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/8/8a/Descartes-reflex.JPG"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Descartes-reflex.JPG"/> </a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Descartes’ &lsquo;dualism&rsquo;</h2></hgroup><article  id="descartes-dualism">
+
+<ul>
+<li>Reflexes and animal &ldquo;minds&rdquo; are physical, machine-like</li>
+<li>Human mind is not
+
+<ul>
+<li>&ldquo;Dual&rdquo; influences on behavior</li>
+<li>Physical + spiritual</li>
+</ul></li>
+<li>Soul controls body via <em>pineal gland</em>
+
+<ul>
+<li>Causes muscles to &ldquo;inflate&rdquo;</li>
+</ul></li>
+</ul>
+
+<!-- ## Pineal Gland -->
+
+<!-- <div class="centered"> -->
+
+<!-- <a href="http://www.nature.com/nrn/journal/v5/n9/images/nrn1498-f1.jpg"> -->
+
+<!-- <img src="http://www.nature.com/nrn/journal/v5/n9/images/nrn1498-f1.jpg" height=450px/> -->
+
+<!-- </a> -->
+
+</article></slide><slide class=""><hgroup><h2>Pineal gland</h2></hgroup><article  id="pineal-gland">
+
+<div class="centered">
+<p><a href="http://images.fineartamerica.com/images-medium-large-5/descartes-pineal-gland-granger.jpg"> <img src="http://images.fineartamerica.com/images-medium-large-5/descartes-pineal-gland-granger.jpg" height=450px/> </a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Do you agree with Descartes?</h2></hgroup><article  id="do-you-agree-with-descartes">
+
+<ul>
+<li>A. <strong>Yes</strong>, human minds are fundamentally different from animal minds. The human mind is influenced by both physical and extraphysical processes.</li>
+<li>B. <strong>No</strong>, human minds are similar to animal minds. The human mind arises solely from physical processes.</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>How would you test Descartes idea about the role of the pineal gland?</h2></hgroup><article  id="how-would-you-test-descartes-idea-about-the-role-of-the-pineal-gland">
+
+<!-- ## Other milestones -->
+
+<!-- - Invention of [light microscope](http://www.history-of-the-microscope.org/invention-of-glass-lenses-and-the-history-of-the-light-microscope.php) (1609 CE), [electron microscope](https://en.wikipedia.org/wiki/Electron_microscope) (1926) -->
+
+<!-- - Cell stains -- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi), [Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal) -- late 1800s -->
+
+<!-- - Recording of electrical activity of nerves, [Luigi Galvani](https://en.wikipedia.org/wiki/Luigi_Galvani) -->
+
+<!-- - [Magnetic resonance imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) -->
+
+</article></slide><slide class=""><hgroup><h2>The lessons from history</h2></hgroup><article  id="the-lessons-from-history">
+
+<ul>
+<li>Neuroscience shaped by new methods, tools</li>
+<li>Neuroscience shaped by <a href='http://www.columbia.edu/cu/psychology/courses/1010/mangels/neugiro/history/history.html' title=''>great debates</a>
+
+<ul>
+<li>Mind == brain debate</li>
+<li>Are functions local or distributed?</li>
+<li>Do neurons connect like pipes or pass info like relay runners?</li>
+</ul></li>
+<li>Forms at multiple levels of analysis contribute to function</li>
+</ul>
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Levels of analysis</h2></hgroup><article  id="levels-of-analysis">
+
+</article></slide><slide class=""><hgroup><h2>Spatial resolution</h2></hgroup><article  id="spatial-resolution">
+
+<div class="centered">
+<p><img src="img/churchland-levels-of-analysis.gif" height=500px/></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Spatial and Temporal Resolution</h2></hgroup><article  id="spatial-and-temporal-resolution" class="smaller">
+
+<div class="figure" style="text-align: center">
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp" alt="[[@sejnowski2014putting]](https://doi.org/10.1038/nn.3839)" width="600px" />
+
+<p class="caption">
+
+<a href='https://doi.org/10.1038/nn.3839' title=''><span class="cite">[@sejnowski2014putting]</span></a>
+
+</p></div>
+
+<!-- ## Spatial Resolution in Detail -->
+
+<!-- - Within an individual -->
+
+<!--     + molecular -->
+
+<!--         * genetic -->
+
+<!--         * receptor -->
+
+<!--     + chemical -->
+
+<!--         * neurotransmitter/hormonal -->
+
+<!--     + cellular -->
+
+<!--         * neuronal firing -->
+
+<!-- ## Spatial Resolution in Detail -->
+
+<!-- - Internal to individuals -->
+
+<!--     + network -->
+
+<!--         * lateral inhibition -->
+
+<!--     + area -->
+
+<!--         * V1 varies by ~2x -->
+
+<!--     + region -->
+
+<!--         * Wiring/connectivity differences -->
+
+<!--     + system -->
+
+<!-- ## Spatial Resolution in Detail -->
+
+<!-- - External to individuals -->
+
+<!--     + Social -->
+
+<!--         * Friends, family, teachers, others -->
+
+<!--     + Non-social -->
+
+<!--         * Neighborhood, school, state/region, country -->
+
+<!--         * Physical environment -->
+
+<!-- ## Temporal Resolution in Detail -->
+
+<!-- - Within one lifetime -->
+
+<!--     + Microseconds -->
+
+<!--         * detection position from acoustic stimulation -->
+
+<!--     + Milliseconds -->
+
+<!--         * action potential -->
+
+<!--     + Seconds -->
+
+<!--         * changes in EEG power -->
+
+<!--         * short-term memory -->
+
+<!-- ## Temporal Resolution in Detail -->
+
+<!-- - Within one lifetime -->
+
+<!--     + Minutes -->
+
+<!--         * synaptic plasticity -->
+
+<!--     + Hours -->
+
+<!--         * memory consolidation -->
+
+<!--         * Hormone (melatonin, cortisol) levels -->
+
+<!--     + Days -->
+
+<!-- ## Temporal Resolution in Detail -->
+
+<!-- - Within one lifetime -->
+
+<!--     + Weeks -->
+
+<!--     + Months -->
+
+<!--     + Years -->
+
+<!--         * education & training -->
+
+<!--         * disease processes -->
+
+<!--         * cultural change -->
+
+<!-- ## Temporal Resolution in Detail -->
+
+<!-- - Across lifetimes -->
+
+<!--     + Centuries -->
+
+<!--         * cultural changes -->
+
+<!--     + Millenia -->
+
+<!--         * Natural & sexual selection -->
+
+</article></slide><slide class=""><hgroup><h2>Your turn</h2></hgroup><article  id="your-turn">
+
+<ul>
+<li>What’s a micro (spatially small) influence on/aspect of behavior?</li>
+<li>What’s a macro (spatially large)…</li>
+<li>What’s a micro (temporally short)…</li>
+<li>What’s a macro (temporally long)…</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Why does this matter?</h2></hgroup><article  id="why-does-this-matter">
+
+<ul>
+<li>Different methods, different levels of analysis</li>
+<li>Challenge of linking phenomena across levels
+
+<ul>
+<li>How does the micro affect macro or vice versa?</li>
+</ul></li>
+<li>Challenge of interpretation</li>
+</ul>
+
+</article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Neuroscience methods</h2></hgroup><article  id="neuroscience-methods">
+
+</article></slide><slide class=""><hgroup><h2>Methods to the madness</h2></hgroup><article  id="methods-to-the-madness">
+
+<ul>
+<li>Tools in the neuroscientist’s toolkit</li>
+<li>What they tell us, and what they don’t</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Evaluating methods</h2></hgroup><article  id="evaluating-methods">
+
+<ul>
+<li>What question does method X answer?</li>
+<li>What are we measuring?
+
+<ul>
+<li>Structure</li>
+<li>Activity</li>
+</ul></li>
+<li>Strengths &amp; Weaknesses
+
+<ul>
+<li>Cost (time/$)</li>
+<li>Invasiveness</li>
+<li>Spatial/temporal resolution</li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Spatial and Temporal Resolution</h2></hgroup><article  id="spatial-and-temporal-resolution-1">
+
+<div class="centered">
+<p><a href="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp"> <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp" width="600px"> </a></p>
+
+<p><a href='http://doi.org/10.1038/nn.3839' title=''>Sejnowski 2014</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Types of methods</h2></hgroup><article  id="types-of-methods">
+
+<ul>
+<li>Structural
+
+<ul>
+<li>Mapping the circuitry</li>
+<li>Anatomy &amp; connectivity</li>
+</ul></li>
+<li>Functional (next time)
+
+<ul>
+<li>What does it do?</li>
+<li>Physiology/Activity</li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Mapping structures</h2></hgroup><article  id="mapping-structures">
+
+<ul>
+<li>Cell/axon stains
+
+<ul>
+<li><em>Golgi stain</em> – whole cells
+
+<ul>
+<li><a href='https://en.wikipedia.org/wiki/Camillo_Golgi' title=''>Camillo Golgi</a></li>
+</ul></li>
+<li><em>Nissl stain</em> – cell bodies only
+
+<ul>
+<li><a href='https://en.wikipedia.org/wiki/Franz_Nissl' title=''>Franz Nissl</a></li>
+</ul></li>
+<li>Cellular distribution, concentration, microanatomy</li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2><a href='http://2e.mindsmachine.com/glossary.html#G' title=''>Golgi stain</a></h2></hgroup><article  id="golgi-stain">
+
+<div class="centered">
+<p><a href="http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg"> <img src="http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg" height="450px"/> </a></p></div>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<ul>
+<li>Complete nerve cells, but only 5-10% of total</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2><a href='http://2e.mindsmachine.com/glossary.html#N' title=''>Nissl stain</a></h2></hgroup><article  id="nissl-stain">
+
+<div class="centered">
+<p><a href="https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg"> <img src="https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg" height=450px> </a></p></div>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<ul>
+<li>Only cell bodies</li>
+<li>Density of staining ~ cell density/number</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Retrograde vs. anterograde <a href='https://en.wikipedia.org/wiki/Histochemical_tracer' title=''>histochemical tracers</a></h2></hgroup><article  id="retrograde-vs.-anterograde-histochemical-tracers">
+
+<ul>
+<li>Neuron information flow <em>polarized</em>–flows in one direction
+
+<ul>
+<li>≠ electronic wires, but like pipes</li>
+</ul></li>
+<li><em>Retrograde</em> (from <em>axon terminal</em> to <em>cell body</em>); <em>anterograde</em> (from cell body to axon terminal)</li>
+<li>What connects where
+
+<ul>
+<li>inputs to region X</li>
+<li>outputs from region X</li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Retrograde vs. anterograde tracers</h2></hgroup><article  id="retrograde-vs.-anterograde-tracers">
+
+<div class="centered">
+<p><a href="http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png"> <img src="http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png" height="500px"/> </a></p></div>
+
+</article></slide><slide class=""><hgroup><h2><a href='http://cbs.fas.harvard.edu/science/connectome-project/brainbow' title=''>Brainbow</a></h2></hgroup><article  id="brainbow">
+
+<div class="centered">
+<p><img src="img/lichtman-nrn2391-f1.jpg"></p>
+
+<p><a href='http://doi.org/10.1038/nrn2391' title=''>Lichtman, 2008</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Brainbow</h2></hgroup><article  id="brainbow-1">
+
+<div class="centered">
+<p><img src="img/lichtman-nrn2391-f2.jpg" height=500px></p>
+
+<p><a href='http://doi.org/10.1038/nrn2391' title=''>Lichtman, 2008</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nvXuq9jRWKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+<blockquote>
+<p><em>&ldquo;If understanding everything we need to know about the brain is a mile, how far have we walked?&rdquo;</em> – J. Lichtman</p>
+</blockquote>
+
+</article></slide><slide class=""><hgroup><h2><a href='http://clarityresourcecenter.com/CLARITY.html' title=''>Clarity</a></h2></hgroup><article  id="clarity">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-NMfp13Uug" frameborder="0" allowfullscreen>
+
+</iframe>
+
+</article></slide><slide class=""><hgroup><h2>Evaluating cellular tracing techniques</h2></hgroup><article  id="evaluating-cellular-tracing-techniques">
+
+<ul>
+<li>Invasive (in humans post-mortem only)</li>
+<li>High spatial resolution, but poor temporal resolution
+
+<ul>
+<li>Why?</li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Mapping structures</h2></hgroup><article  id="mapping-structures-1">
+
+<ul>
+<li>Computed axial tomography (CAT), computed tomography <a href='https://en.wikipedia.org/wiki/CT_scan' title=''>CT</a></li>
+<li>X-ray based</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Tomography</h2></hgroup><article  id="tomography">
+
+<div class="centered">
+<p><a href="http://img.tfd.com/mk/T/X2604-T-22.png"> <img src="img/ct-scanner.png" height="450px"/> </a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Tomography</h2></hgroup><article  id="tomography-1">
+
+<div class="centered">
+<p><img src="https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg"></p>
+
+<p><a href='https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg' title=''>https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>CT scan of stroke</h2></hgroup><article  id="ct-scan-of-stroke">
+
+<div class="centered">
+<p><a href="http://1.bp.blogspot.com/-I5AIwDp1jJM/UF9gqPEw4vI/AAAAAAAB77M/VfLRw2JDEiY/s1600/mca+inferior+division+infarct+ct+brain.JPG"> <img src="img/mca-inferior-division-infarct-ct-brain.jpg" height=500px> </a></p></div>
+
+</article></slide><slide class=""><hgroup><h2><a href='https://en.wikipedia.org/wiki/Magnetic_resonance_imaging' title=''>Magnetic Resonance Imaging (MRI)</a></h2></hgroup><article  id="magnetic-resonance-imaging-mri">
+
+<ul>
+<li>Magnetic resonance</li>
+<li>Some common isotopes (e.g., H) &amp; complex molecules have a magnetic dipole</li>
+<li>Axes align with strong magnetic field</li>
+<li>When alignment perturbed by radio frequency (RF) pulse, speed of realignment varies by tissue</li>
+<li>Realignment emits RF signals</li>
+<li><a href='https://science.howstuffworks.com/mri.htm' title=''>How MRI works</a></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>MRI</h2></hgroup><article  id="mri">
+
+<div class="centered">
+<p><img src="https://cdn.hswstatic.com/gif/mri-steps.jpg"/></p>
+
+<p><a href='https://cdn.hswstatic.com/gif/mri-steps.jpg' title=''>https://cdn.hswstatic.com/gif/mri-steps.jpg</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>How MRI works</h2></hgroup><article  id="how-mri-works">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CGzk-nV06g" frameborder="0" allowfullscreen>
+
+</iframe>
+
+</article></slide><slide class=""><hgroup><h2><span class="blue">
+Structural</span> MRI</h2></hgroup><article  id="structural-mri">
+
+<ul>
+<li>Reveals tissue density/type differences</li>
+<li><a href='https://en.wikipedia.org/wiki/Grey_matter' title=''>Gray matter</a> (neurons &amp; dendrites &amp; axons &amp; glia) vs. <a href='https://en.wikipedia.org/wiki/White_matter' title=''>white matter</a> (mostly axons)</li>
+<li>MR Spectroscopy
+
+<ul>
+<li>Concentration of specific chemical substances (only some have MR signature)</li>
+</ul></li>
+<li>Region sizes/volumes</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Structural MRI of the brain</h2></hgroup><article  id="structural-mri-of-the-brain">
+
+<div class="centered">
+<p><a href="https://www.brainfacts.org/-/media/Brainfacts2/In-the-Lab/Tools-and-Techniques/Article-Images/MRI_blackandwhite.png?h=367&iar=0&w=650&hash=81CDDCBCA0C06F1B28DAFA372480461D2188847A"> <img src="https://www.brainfacts.org/-/media/Brainfacts2/In-the-Lab/Tools-and-Techniques/Article-Images/MRI_blackandwhite.png?h=367&iar=0&w=650&hash=81CDDCBCA0C06F1B28DAFA372480461D2188847A" width=900px> </a></p></div>
+
+</article></slide><slide class=""><hgroup><h2><a href='https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging' title=''>Diffusion tensor imaging (DTI)</a></h2></hgroup><article  id="diffusion-tensor-imaging-dti">
+
+<div class="centered">
+<p><img src="https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg" width=800px></p></div>
+
+</article></slide><slide class=""><hgroup><h2><a href='https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging' title=''>Diffusion tensor imaging (DTI)</a></h2></hgroup><article  id="diffusion-tensor-imaging-dti-1">
+
+<ul>
+<li>Type of structural MRI</li>
+<li>Measures patterns of movement/diffusion of \(H_{2}O\)</li>
+<li>Reveals integrity/density of axon fibers</li>
+<li>Measure of connectivity</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2><a href='https://en.wikipedia.org/wiki/Voxel-based_morphometry' title=''>Voxel-based morphometry (VBM)</a></h2></hgroup><article  id="voxel-based-morphometry-vbm">
+
+<ul>
+<li><a href='https://en.wikipedia.org/wiki/Voxel' title=''>Voxels (volume-based elements)</a></li>
+<li>Morphometry, measure (&ldquo;metry&rdquo;) form/morphology</li>
+<li>How does brain size or thickness vary by age, disease status, etc.?</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<div class="centered">
+<p><img src="http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg" height=500px> <small> <a href='http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg' title=''>http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg</a> </small></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Main points</h2></hgroup><article  id="main-points">
+
+<ul>
+<li>Spatial vs. temporal resolution</li>
+<li>Structural methods (parts, sizes, connectivity)</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Next time…</h2></hgroup><article  id="next-time">
+
+<ul>
+<li><em>Functional</em> neuroscience methods</li>
+</ul></article></slide>
+
+
+  <slide class="backdrop"></slide>
+
+</slides>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+<!-- map slide visiblity events into shiny -->
+<script>
+  (function() {
+    if (window.jQuery) {
+       window.jQuery(document).on('slideleave', function(e) {
+         window.jQuery(e.target).trigger('hidden');
+      });
+       window.jQuery(document).on('slideenter', function(e) {
+         window.jQuery(e.target).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+</body>
+</html>

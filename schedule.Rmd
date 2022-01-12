@@ -30,7 +30,7 @@ title: "Schedule"
     - Optional:
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-01-13-history-levels-methods.html) | [PDF](lectures/260-2022-01-13-history-levels-methods.pdf)
 
 ---
 
@@ -45,7 +45,7 @@ title: "Schedule"
     - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
 - Materials
-    - [Slides] | [PDF]()
+    - [Slides](lectures/260-2022-01-13-intro.html) | [PDF]()
 
 ### Thursday, January 20
 
