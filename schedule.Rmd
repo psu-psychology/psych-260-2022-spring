@@ -23,7 +23,6 @@ title: "Schedule"
     - Levels of analysis
     - Neuroscience methods I
 - Assignments
-    - Review: <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>
     - Scan: <https://faculty.washington.edu/chudler/hist.html>
     - Read: W&B 1:3-21; 2:29, 48-51; 3:75-79.
     - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
