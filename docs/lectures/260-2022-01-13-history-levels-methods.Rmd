@@ -3,6 +3,8 @@ title: "PSYCH 260/BBH 203"
 subtitle: "History & Methods"
 author: "Rick O. Gilmore"
 date: '`r Sys.time()`'
+bibliography: bib/psych260.bib
+csl: bib/apa.csl
 css: css/ioslides.css
 output:
   ioslides_presentation:
@@ -399,17 +401,16 @@ knitr::include_graphics("https://media.springernature.com/lw685/springer-static/
 <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp" width="600px">
 </a>
 
-[Sejnowski 2014](http://doi.org/10.1038/nn.3839)
+[Sejnowski et al. 2014](http://doi.org/10.1038/nn.3839)
 </div>
 
 ## Types of methods
 
 - Structural
-    + Mapping the circuitry
-    + Anatomy & connectivity
+    + What are the parts?
+    + How do they connect?
 - Functional (next time)
-    + What does it do?
-    + Physiology/Activity
+    + What do the parts do?
 
 ## Mapping structures
 
@@ -430,7 +431,9 @@ knitr::include_graphics("https://media.springernature.com/lw685/springer-static/
 
 ---
 
-- Complete nerve cells, but only 5-10\% of total
+- Soak tissue in Potassium Dichromate ($K_2Cr_2O_7$) then apply Silver Nitrate ($AgNO_3$)
+- Complete nerve cells, but only 1-5\% of total
+- Santiago Ramon y Cajal argued for *neuron doctrine*, shared 1906 Nobel Prize with Golgi
 
 ## [Nissl stain](http://2e.mindsmachine.com/glossary.html#N)
 
@@ -445,16 +448,7 @@ knitr::include_graphics("https://media.springernature.com/lw685/springer-static/
 - Only cell bodies
 - Density of staining ~ cell density/number
 
-## Retrograde vs. anterograde [histochemical tracers](https://en.wikipedia.org/wiki/Histochemical_tracer)
-
-- Neuron information flow *polarized*--flows in one direction
-    - ≠ electronic wires, but like pipes
-- *Retrograde* (from *axon terminal* to *cell body*); *anterograde* (from cell body to axon terminal)
-- What connects where
-    - inputs to region X
-    - outputs from region X
-
-## Retrograde vs. anterograde tracers
+## [Histochemical tracers](https://en.wikipedia.org/wiki/Histochemical_tracer)
 
 <div class="centered">
 <a href="http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png">
@@ -462,42 +456,53 @@ knitr::include_graphics("https://media.springernature.com/lw685/springer-static/
 </a>
 </div>
 
-## [Brainbow](http://cbs.fas.harvard.edu/science/connectome-project/brainbow)
+## Retrograde vs. anterograde tracers
 
-<div class="centered">
-<img src="img/lichtman-nrn2391-f1.jpg">
+- Neuron information flow *polarized*--flows in one direction
+    - ≠ electronic wires, but like pipes
+- *Retrograde* (from *axon terminal* to *cell body*)
+- *Anterograde* (from cell body to axon terminal)
 
-[Lichtman, 2008](http://doi.org/10.1038/nrn2391)
-</div>
+## Two-photon microscopy
 
-## Brainbow
+```{r, fig.cap="https://www.brainfacts.org/in-the-lab/tools-and-techniques/2021/meet-the-inventors-of-two-photon-microscopy-120721"}
+knitr::include_graphics("https://www.brainfacts.org/-/media/Brainfacts2/In-the-Lab/Tools-and-Techniques/Article-Images/Fig3_GFP_spines.jpg")
+```
 
-<div class="centered">
-<img src="img/lichtman-nrn2391-f2.jpg" height=500px>
+---
 
-[Lichtman, 2008](http://doi.org/10.1038/nrn2391)
-</div>
+> *"If understanding everything we need to know about the brain is a mile, how far have we walked?"*
+> -- J. Lichtman
 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nvXuq9jRWKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> *"If understanding everything we need to know about the brain is a mile, how far have we walked?"*
-> -- J. Lichtman
-
 ## [Clarity](http://clarityresourcecenter.com/CLARITY.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c-NMfp13Uug" frameborder="0" allowfullscreen></iframe>
 
-## Evaluating cellular tracing techniques
+## Evaluating cellular techniques
 
-- Invasive (in humans post-mortem only)
-- High spatial resolution, but poor temporal resolution
-    - Why?
+- Pros:
+  - High spatial resolution, but poor temporal resolution
+- Cons:
+  - Poor temporal resolution
+  - Invasive
 
-## Mapping structures
+---
 
-- Computed axial tomography (CAT), computed tomography [CT](https://en.wikipedia.org/wiki/CT_scan)
+<div class="centered">
+<a href="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp">
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp" width="600px">
+</a>
+
+[Sejnowski 2014](http://doi.org/10.1038/nn.3839)
+</div>
+
+## Computed axial tomography (CAT)
+
+- Computed tomography [CT](https://en.wikipedia.org/wiki/CT_scan)
 - X-ray based
 
 ## Tomography
@@ -526,6 +531,10 @@ knitr::include_graphics("https://media.springernature.com/lw685/springer-static/
 
 ## [Magnetic Resonance Imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CGzk-nV06g" frameborder="0" allowfullscreen></iframe>
+
+## [Magnetic Resonance Imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+
 - Magnetic resonance
 - Some common isotopes (e.g., H) & complex molecules have a magnetic dipole
 - Axes align with strong magnetic field
@@ -533,39 +542,33 @@ knitr::include_graphics("https://media.springernature.com/lw685/springer-static/
 - Realignment emits RF signals
 - [How MRI works](https://science.howstuffworks.com/mri.htm)
 
-## MRI
+## Types of MRI
 
-<div class="centered">
-<img src="https://cdn.hswstatic.com/gif/mri-steps.jpg"/>
+- Structural
+- Functional
 
-<https://cdn.hswstatic.com/gif/mri-steps.jpg>
-</div>
+## <span class="blue">Structural</span> MRI of the brain
 
-## How MRI works
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CGzk-nV06g" frameborder="0" allowfullscreen></iframe>
+```{r, fig.cap="https://www.brainfacts.org/in-the-lab/tools-and-techniques/2020/patient-sm-120920"}
+knitr::include_graphics("https://www.brainfacts.org/-/media/Brainfacts2/In-the-Lab/Tools-and-Techniques/Article-Images/patient-sm-brain-byte.jpg")
+```
 
 ## <span class="blue">Structural</span> MRI
 
 - Reveals tissue density/type differences
 - [Gray matter](https://en.wikipedia.org/wiki/Grey_matter) (neurons & dendrites & axons & glia) vs. [white matter](https://en.wikipedia.org/wiki/White_matter) (mostly axons)
-- MR Spectroscopy
-    - Concentration of specific chemical substances (only some have MR signature)
-- Region sizes/volumes
 
-## Structural MRI of the brain
+---
 
-<div class="centered">
-<a href="https://www.brainfacts.org/-/media/Brainfacts2/In-the-Lab/Tools-and-Techniques/Article-Images/MRI_blackandwhite.png?h=367&iar=0&w=650&hash=81CDDCBCA0C06F1B28DAFA372480461D2188847A">
-<img src="https://www.brainfacts.org/-/media/Brainfacts2/In-the-Lab/Tools-and-Techniques/Article-Images/MRI_blackandwhite.png?h=367&iar=0&w=650&hash=81CDDCBCA0C06F1B28DAFA372480461D2188847A" width=900px>
-</a>
-</div>
+```{r, out.width="900px"}
+knitr::include_graphics("https://www.brainfacts.org/-/media/Brainfacts2/In-the-Lab/Tools-and-Techniques/Article-Images/MRI_blackandwhite.png?h=367&iar=0&w=650&hash=81CDDCBCA0C06F1B28DAFA372480461D2188847A")
+```
 
 ## [Diffusion tensor imaging (DTI)](https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging)
 
-<div class="centered">
-<img src="https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg" width=800px>
-</div>
+```{r, out.width="900px"}
+knitr::include_graphics("https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg")
+```
 
 ## [Diffusion tensor imaging (DTI)](https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging)
 
@@ -574,20 +577,24 @@ knitr::include_graphics("https://media.springernature.com/lw685/springer-static/
 - Reveals integrity/density of axon fibers
 - Measure of connectivity
 
+## MR Spectroscopy
+
+```{r, fig.cap="https://radiopaedia.org/cases/glioma-mr-spectroscopy", out.height="500px"}
+knitr::include_graphics("https://prod-images-static.radiopaedia.org/images/556479/0dc08a48892084b4c3b717feb9dfa4_big_gallery.jpg")
+```
+
+## [Voxel-based morphometry (VBM)](https://en.wikipedia.org/wiki/Voxel-based_morphometry)
+
+```{r, fig.cap="[[@Williamson2012-uj]](http://dx.doi.org/10.3389/fnhum.2012.00184)", out.height="500px"}
+knitr::include_graphics("http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg")
+```
+
 ## [Voxel-based morphometry (VBM)](https://en.wikipedia.org/wiki/Voxel-based_morphometry)
 
 - [Voxels (volume-based elements)](https://en.wikipedia.org/wiki/Voxel)
+    - like pixels in an image, but volumes of tissue
 - Morphometry, measure ("metry") form/morphology
 - How does brain size or thickness vary by age, disease status, etc.?
-
-----
-
-<div class="centered">
-<img src="http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg" height=500px>
-<small>
-<http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg>
-</small>
-</div>
 
 ## Main points
 
@@ -597,3 +604,5 @@ knitr::include_graphics("https://media.springernature.com/lw685/springer-static/
 ## Next time...
 
 - *Functional* neuroscience methods
+
+## References {.smaller}
