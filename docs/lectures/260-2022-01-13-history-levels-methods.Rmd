@@ -29,6 +29,7 @@ knitr::opts_chunk$set(
 
 <div class="notes">
 Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
+[[@Eames_Office2010-xd]](https://www.youtube.com/watch?v=0fKBhvDjuy0)
 </div>
 
 ## Today's topics
@@ -88,6 +89,11 @@ Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
 <a href="https://www.youtube.com/watch?v=S0HKupSZq8k">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S0HKupSZq8k" frameborder="0" allowfullscreen></iframe>
 </a>
+</div>
+
+
+<div class="notes">
+[[@NeuroBriefs2011-pd]](https://www.youtube.com/watch?v=S0HKupSZq8k)
 </div>
 
 <!-- # Pre/Early history -->
@@ -478,9 +484,13 @@ knitr::include_graphics("https://www.brainfacts.org/-/media/Brainfacts2/In-the-L
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nvXuq9jRWKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[[@National_Geographic2014-gv]](https://www.youtube.com/watch?v=nvXuq9jRWKE)
+
 ## [Clarity](http://clarityresourcecenter.com/CLARITY.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c-NMfp13Uug" frameborder="0" allowfullscreen></iframe>
+
+[[Video2013-bj]](https://www.youtube.com/watch?v=c-NMfp13Uug)
 
 ## Evaluating cellular techniques
 
