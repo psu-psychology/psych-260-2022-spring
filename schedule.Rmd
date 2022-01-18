@@ -44,7 +44,7 @@ title: "Schedule"
     - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
 - Materials
-    - [Slides](lectures/260-2022-01-13-intro.html) | [PDF]()
+    - [Slides](lectures/260-2022-01-18-methods.html) | [PDF](lectures/260-2022-01-18-methods.pdf)
 
 ### Thursday, January 20
 

@@ -495,7 +495,7 @@ knitr::include_graphics("https://www.brainfacts.org/-/media/Brainfacts2/In-the-L
 ## Evaluating cellular techniques
 
 - Pros:
-  - High spatial resolution, but poor temporal resolution
+  - High spatial resolution
 - Cons:
   - Poor temporal resolution
   - Invasive
@@ -587,13 +587,13 @@ knitr::include_graphics("https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg
 - Reveals integrity/density of axon fibers
 - Measure of connectivity
 
-## MR Spectroscopy
+## MR Spectroscopy {.smaller}
 
 ```{r, fig.cap="https://radiopaedia.org/cases/glioma-mr-spectroscopy", out.height="500px"}
 knitr::include_graphics("https://prod-images-static.radiopaedia.org/images/556479/0dc08a48892084b4c3b717feb9dfa4_big_gallery.jpg")
 ```
 
-## [Voxel-based morphometry (VBM)](https://en.wikipedia.org/wiki/Voxel-based_morphometry)
+## [Voxel-based morphometry (VBM)](https://en.wikipedia.org/wiki/Voxel-based_morphometry) {.smaller}
 
 ```{r, fig.cap="[[@Williamson2012-uj]](http://dx.doi.org/10.3389/fnhum.2012.00184)", out.height="500px"}
 knitr::include_graphics("http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg")
