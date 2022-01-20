@@ -1,0 +1,767 @@
+---
+title: "PSYCH 260"
+subtitle: "Neuroanatomy II"
+author: "Rick O. Gilmore"
+date: '`r Sys.time()`'
+bibliography: bib/psych260.bib
+csl: bib/apa.csl
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    widescreen: true
+    incremental: false
+    transition: default
+  pdf_document: default
+  github_document: default
+---
+
+```{r, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      cache=FALSE, 
+                      fig.align = "center")
+```
+
+## Prelude (1:22)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/snO68aJTOpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<https://www.youtube.com/embed/snO68aJTOpM>
+
+<!-- Pinky and the brain. -->
+
+## Today's topics
+
+- Quiz 1 on Thursday
+- Warm-up
+- More neuroanatomy
+
+# Warm-up
+
+## Neural structures that are "belly-ward" from the spinal cord are also called...
+
+- A. Dorsal
+- B. Ventral
+- C. Medial
+- D. Rostral
+
+## Neural structures that are "belly-ward" from the spinal cord are also called...
+
+- A. ~~Dorsal~~
+- B. <span class="red">Ventral</span>
+- C. ~~Medial~~
+- D. ~~Rostral~~
+
+---
+
+```{r, out.height="500px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png")
+```
+
+<!-- ## What hindbrain area's name means 'little brain'? -->
+
+<!-- - A. Pons -->
+<!-- - B. 4th ventricle -->
+<!-- - C. Cerebellum -->
+<!-- - D. Tegmentum -->
+
+<!-- ## What hindbrain area's name means 'little brain'? -->
+
+<!-- - A. ~~Pons~~ -->
+<!-- - B. ~~4th ventricle~~ -->
+<!-- - C. <span class="red">Cerebellum</span> -->
+<!-- - D. ~~Tegmentum~~ -->
+
+## The blood/brain barrier is especially thin in which hindbrain area?
+
+- A. Pons
+- B. 4th ventricle
+- C. Cerebellum
+- D. Medulla oblongata (medulla)
+
+## The blood/brain barrier is especially thin in which hindbrain area?
+
+- A. ~~Pons~~
+- B. ~~4th ventricle~~
+- C. ~~Cerebellum~~
+- D. <span class="red">Medulla oblongata (medulla)</span>
+
+## Which of the cerebral ventricles is most caudal (closest to the spinal cord)?
+
+- Cerebral aqueduct
+- Lateral ventricles
+- 3rd ventricle
+- 4th ventricle
+
+## Which of the cerebral ventricles is most caudal (closest to the spinal cord)?
+
+- ~~Cerebral aqueduct~~
+- ~~Lateral ventricles~~
+- ~~3rd ventricle~~
+- <span class="red">4th ventricle</span>
+
+# More neuroanatomy
+    
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| Forebrain      | Lateral              | Telencephalon      | Cerebral cortex |
+|                |                      |                    | Basal ganglia   |
+|                |                      |                    | Hippocampus, amygdala |
+|                | Third                | Diencephalon       | Thalamus        |
+|                |                      |                    | Hypothalamus    |
+| Midbrain       | Cerebral Aqueduct    | Mesencephalon      | Tectum, tegmentum |
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure         |
+|----------------|----------------------|--------------------|-------------------|
+| Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
+|                | --                   | Mylencephalon      | Medulla oblongata |
+
+## Hindbrain
+
+### Structures adjacent to 4th ventricle
+
+- Medulla oblongata
+- Cerebellum
+- Pons
+
+## Hindbrain {.smaller}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png", out.height="500px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png")
+```
+
+## Medulla oblongata {.smaller}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png", out.height="500px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png")
+```
+
+---
+
+- Fibers of passage (to/from spinal cord)
+- Cranial nerves VI-XII
+- Cardiovascular regulation
+- Muscle tone
+
+## [Cerebellum](https://en.wikipedia.org/wiki/Cerebellum)
+
+- “Little brain”
+- Dorsal to pons
+- Movement coordination, classical conditioning (associative learning), + ???
+
+----
+
+```{r, fig.cap="https://en.wikipedia.org/wiki/Cerebellum", out.height="400px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/1/14/Cerebellum_animation_small.gif")
+```
+
+## Pons
+
+- Bulge on brain stem
+- Neuromodulatory nuclei
+- Relay to cerebellum
+- Cranial nerve V
+
+---
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png", out.height="500px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png")
+```
+
+## Midbrain {.smaller}
+
+```{r, fig.cap="http://antranik.org/wp-content/uploads/2011/11/the-brain-stem-mid-brain-left-lateral-view-superior-colliculus-inferior-cerebellar-peduncle.jpg", out.height="450px"}
+knitr::include_graphics("http://antranik.org/wp-content/uploads/2011/11/the-brain-stem-mid-brain-left-lateral-view-superior-colliculus-inferior-cerebellar-peduncle.jpg")
+```
+
+## Midbrain components
+
+### *Tectum*
+### *Tegmentum*
+
+## Midbrain {.smaller}
+
+```{r, out.height="500px", fig.cap="https://vignette.wikia.nocookie.net/brain-for-ai/images/b/bd/Tectum.png/revision/latest?cb=20170613125935"}
+knitr::include_graphics("https://vignette.wikia.nocookie.net/brain-for-ai/images/b/bd/Tectum.png/revision/latest?cb=20170613125935")
+```
+
+## Tectum
+
+- Tectum -> "roof"
+- *Superior colliculus* (reflexive orienting of eyes, head, ears)
+- *Inferior colliculus* (sound/auditory processing)
+
+## Tegmentum
+
+- Tegmentum -> "floor"
+- Species-typical movement sequences (e.g., cat: hissing, pouncing)
+- Cranial nerves III, IV
+
+## Tegmentum
+
+- *Nuclei* that release modulatory neurotransmitters ("neuromodulators")
+    + *Dopamine (DA)*
+    + *Norepinephrine (NE)*
+    + *Serotonin (5-HT)*
+
+## Forebrain {.smaller}
+
+```{r, fig.cap="http://classconnection.s3.amazonaws.com/252/flashcards/1048252/png/forebrain1328987872235.png", out.height="450px"}
+knitr::include_graphics("http://classconnection.s3.amazonaws.com/252/flashcards/1048252/png/forebrain1328987872235.png")
+```
+
+## Forebrain Components
+
+### *Diencephalon* ("between" brain)
+### *Telencephalon*
+
+## Diencephalon {.smaller} 
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/a/a0/1310_Diencephalon.jpg", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/a/a0/1310_Diencephalon.jpg")
+```
+
+## Diencephalon Components
+
+- *Thalamus*
+- *Hypothalamus*
+
+## Thalamus {.smaller}
+
+```{r, fig.cap="http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231", out.height="500px"}
+knitr::include_graphics("http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231")
+```
+
+## Thalamus functions
+
+- Input to cortex
+- Functionally distinct nuclei (collection of neurons)
+    - *Lateral geniculate nucleus (LGN)*, vision
+    - *Medial geniculate nucleus (MGN)*, audition
+
+## Hypothalamus
+
+- Five Fs: fighting, fleeing/freezing, feeding, and reproduction
+- Controls *Autonomic Nervous System (ANS)*
+    - Sympathetic branch
+    - Parasympathetic branch
+
+## Hypothalamus
+
+- Controls *endocrine system* via *pituitary gland* (“master” gland)
+    + *Anterior pituitary* (indirect release of hormones)
+    + *Posterior* (direct release of hormones)
+        - *Oxytocin*
+        - *Vasopressin* 
+
+## Hypothalamus {.smaller}
+
+```{r, fig.cap="http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg", out.width="800px"}
+knitr::include_graphics("http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg")
+```
+
+## Telencephalon components
+
+- Basal (not basil) ganglia
+- Hippocampus
+- Amygdala
+- Cerebral cortex
+
+## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia)
+
+- Skill and habit learning
+- Sequencing of movement
+- Example: Parkinson’s Disease
+
+## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia) {.smaller}
+
+```{r, fig.cap="http://humanphysiology.academy/Neurosciences%202015/Images/5/basalganglia%20sehati_org.jpeg", out.height="450px"}
+knitr::include_graphics("http://humanphysiology.academy/Neurosciences%202015/Images/5/basalganglia%20sehati_org.jpeg")
+```
+
+## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia)
+
+- [Striatum](https://en.wikipedia.org/wiki/Striatum)
+    - Dorsal
+        - [Caudate nucleus](https://en.wikipedia.org/wiki/Caudate_nucleus)
+        - [Putamen](https://en.wikipedia.org/wiki/Putamen)
+    - Ventral
+        - [Nucleus accumbens (NAcc)](https://en.wikipedia.org/wiki/Nucleus_accumbens)
+
+## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia)
+
+- [Globus pallidus](https://en.wikipedia.org/wiki/Globus_pallidus)
+- [Subthalamic nucleus](https://en.wikipedia.org/wiki/Subthalamic_nucleus)
+- [Substantia nigra](https://en.wikipedia.org/wiki/Substantia_nigra) (in tegmentum)
+
+## [Hippocampus](https://en.wikipedia.org/wiki/Hippocampus)
+
+- From Greek for "sea horse"
+- Immediately lateral to (inferior) lateral ventricles
+- Memories of specific facts or events, spatial locations
+- Implicated in Alzheimer's Disease
+- [Fornix](https://en.wikipedia.org/wiki/Fornix_(neuroanatomy)) projects to hypothalamus
+- [Mammillary bodies](https://en.wikipedia.org/wiki/Mammillary_body)
+
+---
+
+<div class="centered">
+<img src="http://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/53835846e4b08ed23a64d3aa/1401116743844/hippocampus_seahorse.jpg?format=300w" height=500px>
+</div>
+
+---
+
+```{r, echo=FALSE, out.width='750px', fig.align='center'}
+knitr::include_graphics("https://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/5750f2a32fe1315b8d98018d/1526033957297/hippocampus.jpg?format=1500w")
+```
+
+## [Amygdala](https://en.wikipedia.org/wiki/Amygdala) 
+
+- “almond”
+- Physiological state, behavioral readiness, affect
+- NOT the fear center! [@ledoux_amygdala_2015].
+
+## Amygdala {.smaller}
+
+```{r, fig.cap="https://3.bp.blogspot.com/-DLYYDLYHSKc/WsV2203SrdI/AAAAAAAADwE/2K3dvkV9rporkTwHFmeeLQ1w4yGZk6xEwCLcBGAs/s1600/Amygdala.png", out.height="450px"}
+knitr::include_graphics("https://3.bp.blogspot.com/-DLYYDLYHSKc/WsV2203SrdI/AAAAAAAADwE/2K3dvkV9rporkTwHFmeeLQ1w4yGZk6xEwCLcBGAs/s1600/Amygdala.png")
+```
+
+## Cerebral Cortex
+
+- Cerebral hemispheres
+- Groove (sulcus or sulci)
+- Bumps (gyrus or gyri)
+- Grey vs. white matter
+- Lobes
+
+## Cortical Gyri -- Lateral {.smaller}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/3/35/Gray726.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/3/35/Gray726.png")
+```
+
+## Cortical Gyri -- Medial {.smaller}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gray727.svg/1025px-Gray727.svg.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gray727.svg/1025px-Gray727.svg.png")
+```
+
+## Grey vs. White Matter
+
+- [Grey matter](https://en.wikipedia.org/wiki/Grey_matter)
+    + Cell bodies, dendrites, axons, glia, vessels
+- [White matter](https://en.wikipedia.org/wiki/White_matter)
+    + Mostly axons (covered in myelin)
+
+---
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/9/9a/Brainmaps-macaque-hippocampus.jpg", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/9/9a/Brainmaps-macaque-hippocampus.jpg")
+```
+
+## Lobes of the cerebral cortex
+
+- Frontal
+- Temporal
+- Parietal
+- Occipital
+- Related to [cranial bones](https://en.wikipedia.org/wiki/Neurocranium) of the skull
+
+---
+
+```{r, fig.cap="https://en.wikipedia.org/wiki/Neurocranium"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/3/3f/Neurocranium_-_animation02.gif")
+```
+
+---
+
+```{r, out.height="400px", fig.cap="http://40.media.tumblr.com/tumblr_m1kpkr7Wsq1rn6pqko1_500.jpg"}
+knitr::include_graphics("http://40.media.tumblr.com/tumblr_m1kpkr7Wsq1rn6pqko1_500.jpg")
+```
+
+## Landmarks of the cerebral cortex
+
+| Landmark | Identifies/separates |
+|----------|----------------------|
+| [Medial longitudinal fissure (longitudinal fissure)](https://en.wikipedia.org/wiki/Medial_longitudinal_fissure) | Divides hemispheres |
+| [Lateral sulcus/fissure](https://en.wikipedia.org/wiki/Lateral_sulcus) | Divides temporal lobe from frontal & parietal |
+| [Central sulcus](https://en.wikipedia.org/wiki/Central_sulcus) | Divides frontal from parietal lobe |
+
+## [Medial longitudinal fissure (longitudinal fissure)](https://en.wikipedia.org/wiki/Medial_longitudinal_fissure) {.smaller}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/0/04/Human_brain_longitudinal_fissure.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/0/04/Human_brain_longitudinal_fissure.png")
+```
+
+## [Lateral sulcus/fissure](https://en.wikipedia.org/wiki/Lateral_sulcus) {.smaller}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/4/41/Lateral_sulcus2.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/4/41/Lateral_sulcus2.png")
+```
+
+## [Central sulcus](https://en.wikipedia.org/wiki/Central_sulcus) {.smaller}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png")
+```
+
+## Representative interhemispheric fiber tracts in the cortex
+
+- Connect left and right hemispheres
+- [Corpus callosum](https://en.wikipedia.org/wiki/Corpus_callosum)
+- [Anterior](https://en.wikipedia.org/wiki/Anterior_commissure), [Posterior](https://en.wikipedia.org/wiki/Posterior_commissure) Commissures
+
+## [Corpus callosum](https://en.wikipedia.org/wiki/Corpus_callosum) {.smaller}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/6/60/Corpus_callosum.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/6/60/Corpus_callosum.png")
+```
+
+## [Anterior](https://en.wikipedia.org/wiki/Anterior_commissure), [Posterior](https://en.wikipedia.org/wiki/Posterior_commissure) Commissures  {.smaller}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/2/22/Gray720.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/2/22/Gray720.png")
+```
+
+## Lobes of the Cerebral Cortex {.smaller}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png")
+```
+
+## [Frontal lobe](https://en.wikipedia.org/wiki/Frontal_lobe)
+
+- Where is it?
+    - Anterior to central sulcus
+    - Superior to lateral fissure
+    - Dorsal to temporal lobe
+    
+---
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png")
+```
+
+## Frontal lobe 
+
+- What does it do/contain?
+    - Primary motor cortex (M1) 
+    - Pre-central gyrus (pre/anterior to central sulcus)
+    
+--- 
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Blausen_0103_Brain_Sensory%26Motor.png/1200px-Blausen_0103_Brain_Sensory%26Motor.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Blausen_0103_Brain_Sensory%26Motor.png/1200px-Blausen_0103_Brain_Sensory%26Motor.png")
+```
+
+## Frontal lobe
+
+- What does it do/contain?
+    - Prefrontal cortex
+        + Planning, problem solving, working memory...? 
+    - Anterior cingulate cortex (ACC)
+    - Primary olfactory cortex
+    - Gustatory cortex
+
+## Cingulate Gyrus {.smaller}
+
+```{r, fig.cap="http://cis.jhu.edu/data.sets/cortical_segmentation_validation/photos/cinggyrus75.jpg", out.height="450px"}
+knitr::include_graphics("http://cis.jhu.edu/data.sets/cortical_segmentation_validation/photos/cinggyrus75.jpg")
+```
+
+<!-- Delete for PSYCH 260
+
+## Inferior Frontal Gyrus (IFG) {.smaller}
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/b/b2/Gray726_inferior_frontal_gyrus.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Gray726_inferior_frontal_gyrus.png" height="450px"/>
+</a>
+</div>
+
+## Middle Frontal Gyrus (MFG) {.smaller}
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/7/7f/Gray726_middle_frontal_gyrus.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Gray726_middle_frontal_gyrus.png" height="450px"/>
+</a>
+</div>
+
+-->
+
+## Temporal lobe 
+
+- Where is it?
+    - Ventral to frontal, parietal lobes
+    - Inferior to lateral fissure
+
+---
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png")
+```
+
+## Temporal lobe
+
+- What does it do/contain?
+    - Primary auditory cortex (A1)
+    - Object, face recognition
+    - Amygdala, hippocampus
+    - Storage of memories about events, objects
+    - Olfactory cortex
+
+<!-- Delete for PSYCH 260 
+
+## Inferior Temporal Gyrus (ITG) {.smaller}
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png" height="450px"/>
+</a>
+</div>
+
+## Entorhinal Cortex (ER) {.smaller}
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png" height="450px"/>
+</a>
+</div>
+
+-->
+
+## Parietal lobe
+
+- Where is it?
+    - Caudal to frontal lobe
+    - Dorsal to temporal lobe
+    - Posterior to central sulcus
+
+---
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png")
+```
+
+## Parietal lobe
+
+- What does it do/contain?
+    - Primary somatosensory cortex
+    - Perception of spatial relations, action planning
+    
+## Post-central gyrus
+
+- Post-central -> "posterior to" central sulcus
+- Primary somatosensory cortex (S1)
+
+---
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Blausen_0103_Brain_Sensory%26Motor.png/1200px-Blausen_0103_Brain_Sensory%26Motor.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Blausen_0103_Brain_Sensory%26Motor.png/1200px-Blausen_0103_Brain_Sensory%26Motor.png")
+```
+
+<!-- Delete for PSYCH 260
+
+## Inferior Parietal Lobule
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png" height="450px"/>
+</a>
+</div>
+
+## Superior Parietal Lobule {.smaller}
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png" height="450px"/>
+</a>
+</div>
+
+-->
+
+## Occipital lobe
+
+- Where is it?
+    - Caudal to parietal & temporal lobes
+- What does it do/contain?
+    - Primary visual cortex (V1)
+
+---
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png")
+```
+
+## Visual Cortex
+
+<div class="centered">
+<a href="http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png">
+<img src="http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png"height=450px/>
+</a>
+</div>
+
+## [Insular cortex (insula)](https://en.wikipedia.org/wiki/Insular_cortex) 
+
+-  Where is it?
+    - medial to temporal lobe
+    - deep inside lateral fissure
+
+## Insula
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png", out.height="450px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png")
+```
+
+## Insula
+
+- What does it do/contain?
+    + Primary gustatory cortex
+    + self-awareness, interpersonal experiences, motor control
+
+## Lobes, landmarks, areas
+
+| Lobe     | Sulci      | Gyri          | Areas |
+|----------|------------|---------------|-----------|
+| Frontal  | Central sulcus | Precentral gyrus | motor cortex |
+|          | Corpus callosum | Cingulate gyrus | anterior cingulate cortex   |
+|          |                 |                 | olfactory cortex |
+|          |                 |                 | gustatory cortex |
+
+## Lobes, landmarks, areas
+
+| Lobe     | Sulci      | Gyri          | Areas |
+|----------|------------|---------------|-----------|
+| Temporal | Lateral fissure |               | auditory cortex |
+|          |                 |               | olfactory cortex |
+|          |                 |               | hipppocampus |
+|          |                 |               | amygdala |
+
+## Lobes, landmarks, areas
+
+| Lobe     | Sulci      | Gyri          | Areas |
+|----------|------------|---------------|-----------|
+| Parietal | Central sulcus  | Postcentral gyrus | somatosensory ctx |
+| Occipital |     |     | visual ctx |
+| Insula    | Lateral fissure |             | gustatory ctx |
+
+## Brodmann Areas {.smaller}
+
+- [Korbinian Brodmann](https://en.wikipedia.org/wiki/Korbinian_Brodmann)
+- Cytoarchitectonic differences in cerebral cortex
+
+```{r, fig.cap="http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg", out.height="400px"}
+knitr::include_graphics("http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg")
+```
+
+## Brodmann Areas {.smaller}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png", out.width="800px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png")
+```
+
+## Brodmann Areas {.smaller}
+
+```{r, fig.cap="http://www.brain-maps.com/gehirn/brodmann_areale.jpg", out.height="450px"}
+knitr::include_graphics("http://www.brain-maps.com/gehirn/brodmann_areale.jpg")
+```
+
+## Spinal cord
+
+- Rostral/Caudal axis
+    - Spinal column w/ vertebrae
+    - Cervical (8), thoracic (12), lumbar (5), sacral (5), coccygeal (1)
+    - Spinal segments & 31 nerve pairs 
+    - Cauda equina
+
+## Spinal cord {.smaller}
+
+```{r, fig.cap="http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg", out.height="450px"}
+knitr::include_graphics("http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg")
+```
+
+## Spinal cord
+
+- Organization of the spinal cord
+    - Dorsal/Ventral
+        + Dorsal root (sensory)
+        + Ventral root (mostly motor)
+    - Grey (interior) vs. white matter (exterior)
+    
+---
+
+```{r, fig.cap="https://www.nap.edu/openbook/0309095859/xhtml/images/p2000d3bdg31001.jpg", out.height="450px"}
+knitr::include_graphics("https://www.nap.edu/openbook/0309095859/xhtml/images/p2000d3bdg31001.jpg")
+```
+
+---
+
+```{r, fig.cap="https://media1.britannica.com/eb-media/75/2975-004-7891D6AA.jpg", out.height="450px"}
+knitr::include_graphics("https://media1.britannica.com/eb-media/75/2975-004-7891D6AA.jpg")
+```
+
+## Organization of the PNS 
+
+- Somatic division
+- Autonomic division
+
+- Cranial nerves
+- Spinal nerves
+
+## Cranial nerves
+
+- Afferents (input), efferents (output), or mixed
+- Innervate head and neck
+- Olfactory (I), optic (II), (VIII) auditory,
+vagus (X), etc. 
+- Spinal nerves
+
+## Cranial nerves {.smaller}
+
+```{r, fig.cap="http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg", out.height="450px"}
+knitr::include_graphics("http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg")
+```
+
+## Autonomic nervous system
+
+- CNS & PNS components
+- Controls "vegetative functions""
+    + Limited voluntary control
+- Two divisions
+    + Sympathetic
+    + Parasympathetic
+		
+## ANS {.smaller}
+
+```{r, fig.cap="http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif", out.height="450px"}
+knitr::include_graphics("http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif")
+```
+
+## Sympathetic division
+
+- Prepares body for action
+- "Fight or flight""
+- Spinal cord
+    + ganglion chain along spinal column to End organs
+- NTs
+    + Preganglionic: ACh 
+    + Post: NE
+
+## Parasympathetic division
+
+- Para -> "around"
+- Restorative function
+- "Rest & digest"
+- Spinal cord -> ganglia near end organs -> end organ
+    + NT: ACh
+    
+## Next time...
+
+- Quiz 1
+- Neuroanatomy III
+
+## References {.smaller}
