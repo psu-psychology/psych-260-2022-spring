@@ -53,7 +53,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 2:32-47
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-01-20-anatomy-I.html) | [PDF](260-2022-01-20-anatomy-I.pdf)
 
 ---
 

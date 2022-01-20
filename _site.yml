@@ -19,7 +19,7 @@ navbar:
             - text: "Tue 2022-02-18"
               href: "lectures/260-2022-01-18-methods.html"
             - text: "Thu 2022-09-20"
-              href: 
+              href: "lectures/260-2022-01-20-anatomy-I.html"
         - text: "Week 3"
           menu:
             - text: "Tue 2022-01-25"

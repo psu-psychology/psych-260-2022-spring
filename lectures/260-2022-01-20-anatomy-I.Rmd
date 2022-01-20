@@ -21,11 +21,17 @@ knitr::opts_chunk$set(echo = FALSE,
                       fig.align = "center")
 ```
 
-## Prelude (2:01)
+## Prelude (3:24) {.smaller}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XujOMf2hlRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[[@Neural_Academy2020-yp]](https://www.youtube.com/watch?v=XujOMf2hlRA)
+
+## Prelude (2:01) {.smaller}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qw8E9WnZTQk" frameborder="0" allowfullscreen></iframe>
 
-<https://www.youtube.com/embed/Qw8E9WnZTQk>
+[[@Kids_Learning_Tube2015-pb]](https://www.youtube.com/watch?v=Qw8E9WnZTQk)
 <!-- I'm your brain...part of the nervous system (song) -->
 
 ## Today's topics
@@ -100,7 +106,9 @@ knitr::include_graphics("https://www.researchgate.net/profile/Deryk_Beal/publica
 
 # Wrap-up on functional methods
 
-- Link to lecture on [functional methods]()
+---
+
+- Link to lecture on [functional methods](https://psu-psychology.github.io/psych-260-2022-spring/lectures/260-2022-01-18-methods.html#53)
 
 # Neuroanatomy  
 
