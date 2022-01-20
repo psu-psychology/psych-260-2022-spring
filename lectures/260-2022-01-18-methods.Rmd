@@ -342,15 +342,29 @@ Effects of DBS for Parkinson's.
 - Example: neural networks
 - Cheap, noninvasive, can be stimulated or “lesioned”
 
+## Application: AI {.smaller}
+
+```{r, fig.cap="https://viso.ai/deep-learning/deep-neural-network-three-popular-types/", out.height="480px"}
+knitr::include_graphics("https://viso.ai/wp-content/uploads/2021/04/multilayer-perceptrons-MLP-concept-1.jpg")
+```
+
 ---
 
-<div class="centered">
-<img src="https://cs231n.github.io/assets/cnn/convnet.jpeg" width=900px>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPU2HistivI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="notes">
-Convolutional neural network.
-</div>
+[[@Redmon2018-pb]](Redmon2018-pb)
+
+## Spatial and Temporal Resolution {.smaller}
+
+```{r, out.width="600px", fig.cap="[[@sejnowski2014putting]](https://doi.org/10.1038/nn.3839)"}
+knitr::include_graphics("https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp")
+```
+
+## Bottom line...
+
+- Neuroscientists...
+  - need to use many tools
+  - seek converging evidence
 
 ## Spatial and Temporal Resolution {.smaller}
 
