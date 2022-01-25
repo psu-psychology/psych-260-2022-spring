@@ -66,7 +66,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 2:32-47 
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-01-25-anatomy-II.html) | [PDF](lectures/260-2022-01-25-anatomy-II.pdf)
 
 ### Thursday, January 27
 
@@ -165,6 +165,10 @@ title: "Schedule"
 - Topics
     - Evolution of the human brain.
     - Review for Exam 2
+- Assignments
+    - Read
+        - Foster, C. (2017, January 19). If you were an elephant …. The Guardian. http://www.theguardian.com/environment/2017/jan/19/if-you-were-an-elephant-
+        - Neubauer, S., & Hublin, J.-J. (2012). The Evolution of Human Brain Development. Evolutionary Biology, 39(4), 568–586. https://doi.org/10.1007/s11692-011-9156-1
 - Materials
     - [Slides](). [PDF]()
     - [Exam 2 Study Guide]()

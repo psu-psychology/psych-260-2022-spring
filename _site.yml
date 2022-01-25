@@ -16,14 +16,14 @@ navbar:
               href: "lectures/260-2022-01-13-history-levels-methods.html"
         - text: "Week 2"
           menu:
-            - text: "Tue 2022-02-18"
+            - text: "Tue 2022-01-18"
               href: "lectures/260-2022-01-18-methods.html"
-            - text: "Thu 2022-09-20"
+            - text: "Thu 2022-01-20"
               href: "lectures/260-2022-01-20-anatomy-I.html"
         - text: "Week 3"
           menu:
             - text: "Tue 2022-01-25"
-              href: 
+              href: "lectures/260-2022-01-25-anatomy-II.html"
             - text: "Thu 2022-01-27"
               href: 
         - text: "Week 4"
