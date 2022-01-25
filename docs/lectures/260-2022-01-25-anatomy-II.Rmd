@@ -37,7 +37,11 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ## Today's topics
 
-- Quiz 1 on Thursday
+- Announcement
+  - Quiz 1 on Thursday
+  - Neuroanatomy resources
+    - [BrainFacts.org 3D brain](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=true)
+    - [Harvard Brain Atlas](https://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm)
 - Warm-up
 - More neuroanatomy
 
@@ -111,19 +115,19 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/e/
 
 | Major division | Ventricular Landmark | Embryonic Division | Structure       |
 |----------------|----------------------|--------------------|-----------------|
-| Forebrain      | Lateral              | Telencephalon      | Cerebral cortex |
-|                |                      |                    | Basal ganglia   |
-|                |                      |                    | Hippocampus, amygdala |
-|                | Third                | Diencephalon       | Thalamus        |
-|                |                      |                    | Hypothalamus    |
-| Midbrain       | Cerebral Aqueduct    | Mesencephalon      | Tectum, tegmentum |
+| *Forebrain*  | Lateral              | Telencephalon      | *Cerebral cortex* |
+|                |                      |                    | [*Basal ganglia*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-basal_ganglia)   |
+|                |                      |                    | [*Hippocampus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-hippocampus-hippocampus), *[Amygdala*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-amygdala) |
+|                | Third                | Diencephalon       | [*Thalamus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-thalamus)        |
+|                |                      |                    | [*Hypothalamus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-hypothalamus)    |
+| [*Midbrain*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-midbrain)   | Cerebral Aqueduct    | Mesencephalon      | *Tectum*, *Tegmentum* |
 
 ## Organization of the brain
 
 | Major division | Ventricular Landmark | Embryonic Division | Structure         |
 |----------------|----------------------|--------------------|-------------------|
-| Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
-|                | --                   | Mylencephalon      | Medulla oblongata |
+| *Hindbrain*  | 4th                  | Rhombencephalon    | *Cerebellum*, [*pons*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-pons)  |
+|                | --                   |                    | [*Medulla oblongata*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-medulla_oblongata) |
 
 ## Hindbrain
 

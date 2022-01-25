@@ -167,10 +167,10 @@ knitr::include_graphics("http://www.scienceteacherprogram.org/biology/chillemist
 ### *Ventricular system*
 ### Blood supply
 
-## Meninges
+## [Meninges](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-meninges)
 
 ### *Dura mater*
-### *Arachnoid membrane*
+### *Arachnoid mater/membrane*
 ### *Subarachnoid space*
 ### *Pia mater*
 
@@ -186,7 +186,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/8/
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png")
 ```
 
-## Ventricles
+## [Ventricles](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-ventricles)
 
 ### *Lateral* (1st & 2nd)
 ### *3rd*
@@ -253,18 +253,18 @@ knitr::include_graphics("https://media.springernature.com/lw685/springer-static/
 | Major division | Ventricular Landmark | Embryonic Division | Structure       |
 |----------------|----------------------|--------------------|-----------------|
 | *Forebrain*  | Lateral              | Telencephalon      | *Cerebral cortex* |
-|                |                      |                    | *Basal ganglia*   |
-|                |                      |                    | *Hippocampus*, *amygdala* |
-|                | Third                | Diencephalon       | *Thalamus*        |
-|                |                      |                    | *Hypothalamus*    |
-| *Midbrain*   | Cerebral Aqueduct    | Mesencephalon      | *Tectum*, *Tegmentum* |
+|                |                      |                    | [*Basal ganglia*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-basal_ganglia)   |
+|                |                      |                    | [*Hippocampus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-hippocampus-hippocampus), *[Amygdala*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-amygdala) |
+|                | Third                | Diencephalon       | [*Thalamus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-thalamus)        |
+|                |                      |                    | [*Hypothalamus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-hypothalamus)    |
+| [*Midbrain*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-midbrain)   | Cerebral Aqueduct    | Mesencephalon      | *Tectum*, *Tegmentum* |
 
 ## Organization of the brain
 
 | Major division | Ventricular Landmark | Embryonic Division | Structure         |
 |----------------|----------------------|--------------------|-------------------|
-| *Hindbrain*  | 4th                  | Rhombencephalon    | *Cerebellum, pons*  |
-|                | --                   |                    | *Medulla oblongata* |
+| *Hindbrain*  | 4th                  | Rhombencephalon    | *Cerebellum*, [*pons*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-pons)  |
+|                | --                   |                    | [*Medulla oblongata*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-medulla_oblongata) |
 
 ## Embryonic brain (~6 weeks gestation) {.smaller}
 
