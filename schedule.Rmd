@@ -75,7 +75,7 @@ title: "Schedule"
     - **Quiz 1**, available on Canvas *after* class.
 - Assignments
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-01-27-anatomy-III.html) | [PDF](lectures/260-2022-01-27-anatomy-III.pdf)
 
 ---
 

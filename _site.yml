@@ -25,7 +25,7 @@ navbar:
             - text: "Tue 2022-01-25"
               href: "lectures/260-2022-01-25-anatomy-II.html"
             - text: "Thu 2022-01-27"
-              href: 
+              href: "lectures/260-2022-01-27-anatomy-III.html"
         - text: "Week 4"
           menu:
             - text: "Tue 2022-02-01"
