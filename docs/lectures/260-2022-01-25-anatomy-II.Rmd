@@ -1,5 +1,5 @@
 ---
-title: "PSYCH 260"
+title: "PSYCH 260/BBH 203"
 subtitle: "Neuroanatomy II"
 author: "Rick O. Gilmore"
 date: '`r Sys.time()`'
