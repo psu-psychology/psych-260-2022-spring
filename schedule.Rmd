@@ -100,7 +100,7 @@ title: "Schedule"
     - Read W&B: 3:55-70
     - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
 - Materials
-    - [Slides]() | [PDF]().
+    - [Slides](lectures/260-2022-02-03-cells-II.html) | [PDF](lectures/260-2022-02-03-cells-II.pdf)
 
 ---
 
