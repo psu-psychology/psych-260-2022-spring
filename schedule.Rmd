@@ -115,7 +115,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 3:70-75
 - Materials
-    - [Slides]() | [PDF]().
+    - [Slides](lectures/260-2022-02-08-cells-III.html) | [PDF](lectures/260-2022-02-08-cells-III.pdf)
     - [Exam 1 Study Guide]().
     
 ### Thursday, February 10

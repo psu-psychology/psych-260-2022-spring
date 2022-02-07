@@ -35,9 +35,7 @@ navbar:
         - text: "Week 5"
           menu:
           - text: "Tue 2022-02-08"
-            href: 
-          - text: "Thu 2022-02-10"
-            href: 
+            href: "lectures/260-2022-02-08-cells-III.html"
         - text: "Week 6"
           menu:
           - text: "Tue 2022-02-15"
