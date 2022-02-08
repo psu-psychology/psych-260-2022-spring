@@ -1,5 +1,5 @@
 ---
-title: "[PSYCH 260](https://psu-psychology.github.io/psych-260-2020-fall)"
+title: "PSYCH 260/BBH 203"
 subtitle: "Exam 1 Review"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
@@ -17,41 +17,44 @@ output:
 
 ## Methods
 
-- [Spatial & temporal resolution](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-08-26-history-levels-methods.html#24)
+- Spatial & temporal resolution
     - Spatial--microscope (high/fine resolution) vs. telescope (low/poor)
     - Temporal--stopwatch (high/fine) vs. calendar (low/poor)
-- [Structural vs. functional](https://psu-psychology.github.io/psych-260-2021-fall/ectures/260-2021-08-26-history-levels-methods.html#38)
+- Structural vs. functional
 - Invasive vs. non-invasive
 
 ## Methods (continued)
 
 - MRI 
-    - [structural](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-08-26-history-levels-methods.html#55)
-    - [diffusion tensor imaging-DTI](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-08-26-history-levels-methods.html#60)
-    - [functional MRI-fMRI](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-08-31-methods.html#40)
-- [CT](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-08-31-methods.html#15)
-- [EEG](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-08-31-methods.html#47), [MEG](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-08-31-methods.html#54), & [ERP](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-08-31-methods.html#51)
-- [Stimulation (chemical, electrical, magnetic, optical)](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-08-31-methods.html#59)
+    - structural
+      - diffusion tensor imaging-DTI
+    - functional MRI-fMRI
+- CT
+- EEG & ERP, MEG
+- Stimulation (chemical, electrical, magnetic, optical
 
 ## Neuroanatomy
 
-- [Directions](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-02-anatomy-I.html#33) & [slices](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-02-anatomy-I.html#37)
-- [Hindbrain, midbrain, forebrain & ventricular landmarks](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-02-anatomy-I.html#52)
-- [Meninges](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-02-anatomy-I.html#40)
-- [Lobes of the cerebral cortex](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-07-anatomy-II.html#53) & [components](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-07-anatomy-II.html#63) & [lobes/landmarks/areas](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-07-anatomy-II.html#84)
-- [Fissures & sulci](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-07-anatomy-II.html#56)
+- Meninges
+- Directions & slices
+- Hindbrain, midbrain, forebrain & ventricular landmarks
+- Lobes of the cerebral cortex & some primary functions
+- Fissures & sulci
 
 ## Neuroanatomy
 
-- [CNS vs. PNS](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-02-anatomy-I.html#51)
-- [Autonomic vs. somatic](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-09-anatomy-III.html#48) parts of PNS
-- [Sympathetic vs. parasympathetic divisions](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-09-anatomy-III.html#51) of the Autonomic Nervous System
+- CNS vs. PNS
+- Autonomic vs. somatic parts of PNS
+- Sympathetic vs. parasympathetic divisions of the Autonomic Nervous System
 
 ## Cellular neuroscience
 
-- [Glia](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-14-cells.html#14)
-- [Neuronal anatomy](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-14-cells.html#26)
-- [Resting potential -- what is it & why does it occur](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-14-cells.html#48)
-    - [$[K^+]$ story](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-14-cells.html#61) (where concentrated, direction of flow)
-    + [$[Na^+]$](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-21-cells-II.html#29) (where concentrated, direction of flow)
-- [Action potential and propagation -- how & why](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-21-cells-II.html#29)
+- Glia
+  - Astrocytes, oligodendrocytes & Schwann cells, microglia
+- Neuronal anatomy
+  - Dendrites, soma, axons, axon terminals, synapse
+- Resting potential -- what is it & why does it occur
+    - $[K^+]$ story (where concentrated, direction of flow, effect on membrane voltage)
+    + $[Na^+]$ story (where concentrated, direction of flow, effect on membrane voltage)
+- Action potential and propagation -- how & why
+    - threshold, rising phase, peak, falling phase, return to resting potential

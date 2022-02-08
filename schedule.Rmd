@@ -116,7 +116,7 @@ title: "Schedule"
     - Read W&B 3:70-75
 - Materials
     - [Slides](lectures/260-2022-02-08-cells-III.html) | [PDF](lectures/260-2022-02-08-cells-III.pdf)
-    - [Exam 1 Study Guide]().
+    - [Exam 1 Study Guide](lectures/260-2022-02-08-exam-1-review.html) | [PDF](lectures/260-2022-02-08-exam-1-review.pdf)
     
 ### Thursday, February 10
 

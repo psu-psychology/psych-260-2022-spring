@@ -17,9 +17,44 @@ output:
 
 ## Today's Topics
 
-- Wherefore brains
+- Warm-up
+- What good are brains?
 - Action potential propagation
 - Another take on the resting and action potentials
+
+# Warm-up
+
+## Which force(s) act to move Na+ ions *inward* in a neuron at resting potential?
+
+A. The force of diffusion</br>
+B. The dark side of the force</br>
+C. The electrostatic force</br>
+D. Gravity</br>
+E. Both A. and C.
+
+## Which force(s) act to move Na+ ions *inward* in a neuron at resting potential?
+
+A. The force of diffusion</br>
+B. ~~The dark side of the force~~</br>
+C. The electrostatic force</br>
+D. ~~Gravity~~</br>
+E. <span class="green">Both A. and C.</span>
+
+## At the (positive voltage) *peak* of the action potential, which force(s) act to move K+ ions *outward*?
+
+A. The force of diffusion</br>
+B. The dark side of the force</br>
+C. The electrostatic force</br>
+D. Gravity</br>
+E. Both A. and C.
+
+## At the (positive voltage) *peak* of the action potential, which force(s) act to move K+ ions *outward*?
+
+A. The force of diffusion</br>
+B. ~~The dark side of the force~~</br>
+C. The electrostatic force</br>
+D. ~~Gravity~~</br>
+E. <span class="green">Both A. and C.</span>
 
 # What good are brains?
 
@@ -79,6 +114,13 @@ C Elegans swimming.
 - For neurons (point to point communication)
 - Live longer
 - Do more, do it faster, over larger distances & longer time periods
+
+## Why chemical & electrical communication?
+
+- Chemical communication : short distances
+    - Cheap, energy-efficient, "compute with chemistry"
+- Electrical communication : long distances
+    - More "expensive"/less energy-efficient
 
 # How action potentials propagate
 
