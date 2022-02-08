@@ -96,6 +96,7 @@ E. <span class="green">Both A. and C.</span>
 - ~$10x$ larger than paramecium
 - multi-cellular ($n=959$ cells total)
 - $n=302$ are neurons & $n=56$ are glia
+- nervous system 37% of cells vs. ~0.5% in humans
 - Can swim, forage, mate
 
 ---
@@ -110,7 +111,7 @@ C Elegans swimming.
 
 ## Why brains?
 
-- Bigger bodies (need to send specific info)
+- Bigger bodies (need to process specific info, move through water, air, on land)
 - For neurons (point to point communication)
 - Live longer
 - Do more, do it faster, over larger distances & longer time periods
