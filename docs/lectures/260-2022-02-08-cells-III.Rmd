@@ -125,6 +125,12 @@ C Elegans swimming.
 
 # How action potentials propagate
 
+## Axon is like an electrical cable {.smaller}
+
+```{r, fig.cap="http://pittmedneuro.com/synaptic.html"}
+knitr::include_graphics("http://pittmedneuro.com/img/Cable.jpg")
+```
+
 ## AP propagation
 
 - Propagation

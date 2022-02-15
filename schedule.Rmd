@@ -134,7 +134,7 @@ title: "Schedule"
 - Assignments
     -  Read W&B 4:83-92, 96-100
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-02-15-neurochem-I.html) | [PDF](lectures/260-2022-02-15-neurochem-I.pdf)
     
 ### Thursday, February 17
 
@@ -142,6 +142,7 @@ title: "Schedule"
     - Neurochemistry II
 - Assignments
     -  Read W&B 4:83-92, 96-100
+    - Watch <http://pittmedneuro.com/movies/transmission1.mp4>
 - Materials
     - [Slides]() | [PDF]()
 
