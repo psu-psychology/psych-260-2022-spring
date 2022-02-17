@@ -41,7 +41,7 @@ navbar:
           - text: "Tue 2022-02-15"
             href: "lectures/260-2022-02-15-neurochem-I.html"
           - text: "Thu 2022-02-17"
-            href: 
+            href: "lectures/260-2022-02-17-neurochem-II.html"
         - text: "Week 7"
           menu:
           - text: "Tue 2022-02-22"
