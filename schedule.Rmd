@@ -159,7 +159,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 8:217-234
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-02-22-hormones.html) | [PDF](lectures/260-2022-02-22-hormones.pdf)
 
 ### Thursday, February 24
 
