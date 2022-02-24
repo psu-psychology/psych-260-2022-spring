@@ -1,0 +1,76 @@
+---
+title: "PSYCH 260/BBH 203"
+subtitle: "Exam 2 Review"
+author: "Rick O. Gilmore"
+date: '`r Sys.time()`'
+bibliography: bib/psych260.bib
+csl: bib/apa.csl
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    widescreen: true
+    incremental: false
+    transition: default
+  pdf_document: default
+  github_document: default
+---
+
+```{r, echo=FALSE}
+knitr::opts_chunk$set(
+  fig.align = "center",
+  echo=FALSE
+)
+```
+
+## Methods
+
+- Structural vs. functional methods
+
+## Neuroanatomy
+
+- Autonomic (ANS) vs. somatic divisions of the Peripheral Nervous System
+    - Sympathetic vs. parasympathetic branches of ANS
+
+## Cellular neuroscience
+
+- Glial types and functions
+- Anatomy of neurons
+    - Gap junctions as a type of synapse
+
+## Neurophysiology
+
+- Resting potential -- what & why
+    - $[K^+]$ story (where concentrated, direction of flow)
+    + $[Na^+]$ story (where concentrated, direction of flow)
+- Action potential and propagation -- how & why
+- Steps leading to neurotransmitter release
+
+## Neurochemistry
+
+- Neurotransmitter types
+    - Amino acids, especially glutamate and GABA
+    - Acetylcholine
+    - Monoamines
+
+## Neurochemistry
+
+- NT anatomy (where released) and function
+- Receptor types: ionotropic vs. metabotropic
+- Inactivation mechanisms & rationale for inactivation
+- EPSPs & IPSPs
+
+## Hormones
+
+- Behaviors under hormonal influence
+- Hormone anatomy: Where released
+- Direct (posterior pituitary) vs. indirect (anterior) release from hypothalamus
+- Responses to threat/challenge
+    - HPA axis, SAM response/axis
+- Milk letdown reflex
+
+## Brain evolution
+
+- When did complex animals (and nervous systems) emerge?
+- How are vertebrate brains similar/different?
+- Patterns of brain/body mass across vertebrates
+- Human brains vs. other animal brains

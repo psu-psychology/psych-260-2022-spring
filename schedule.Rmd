@@ -172,7 +172,7 @@ title: "Schedule"
         - Neubauer, S., & Hublin, J.-J. (2012). The Evolution of Human Brain Development. Evolutionary Biology, 39(4), 568–586. https://doi.org/10.1007/s11692-011-9156-1
 - Materials
     - [Slides](lectures/260-2022-02-24-evolution.html). [PDF](lectures/260-2022-02-24-evolution.pdf)
-    - [Exam 2 Study Guide]()
+    - [Exam 2 Study Guide](lectures/260-2022-02-24-exam-2-review.html). [PDF](260-2022-02-24-exam-2-review.pdf)
 
 ---
     
