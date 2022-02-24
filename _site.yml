@@ -47,7 +47,7 @@ navbar:
           - text: "Tue 2022-02-22"
             href: "lectures/260-2022-02-22-hormones.html"
           - text: "Thu 2022-02-24"
-            href: 
+            href: "lectures/260-2022-02-24-evolution.html"
         - text: "Week 8"
           menu:
           - text: "Tue 2022-03-01"
