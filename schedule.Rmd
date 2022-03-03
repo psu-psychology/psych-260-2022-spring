@@ -188,6 +188,7 @@ title: "Schedule"
 - Topics
     - Development of the human brain
 - Materials
+    - [Slides](lectures/260-2022-03-03-development.html). [PDF](lectures/260-2022-03-03-development.pdf)
 
 ---
 

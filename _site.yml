@@ -50,10 +50,8 @@ navbar:
             href: "lectures/260-2022-02-24-evolution.html"
         - text: "Week 8"
           menu:
-          - text: "Tue 2022-03-01"
-            href:
           - text: "Thu 2022-03-03"
-            href: 
+            href: "lectures/260-2022-03-03-development.html"
         - text: "Week 9"
           menu:
           - text: "Tue 2022-03-15"
