@@ -213,6 +213,10 @@ knitr::include_graphics("img/neural-tube.jpg")
 - Chemorepellents
 - Receptors in growth cone detect chemical gradients
 
+---
+
+<iframe id="reddit-embed" src="https://www.redditmedia.com/r/interestingasfuck/comments/s7fyga/single_brain_cell_looking_for_connections/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="620" width="640" scrolling="no"></iframe>
+
 ## Glia migrate, too {.smaller}
 
 ```{r, fig.cap="[[@Baumann2001-nw]](http://dx.doi.org/10.1152/physrev.2001.81.2.871)"}

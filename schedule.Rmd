@@ -198,9 +198,9 @@ title: "Schedule"
     
 ---
 
-## Week 9, March 7 - 11
+## Week 9, March 14-18
 
-### Tuesday, March 8
+#### Tuesday, March 15
 
 - Topic
     - Psychopathology I: Depression & Bipolar disorder
@@ -208,36 +208,14 @@ title: "Schedule"
     - Read W&B 12:361-371
 - Materials
     - [Slides]() | [PDF]()
-    
-### Thursday, March 10
-
-- Topics
-    - Psychopathology II: Schizophrenia.
-- Assignments
-    - Read W&B 12:347-360.
-- Materials
-    - [Slides]() | [PDF](). 
-
----
-
-## Week 9, March 14-18
-
-#### Tuesday, March 15
-
-- Topics
-    - Emotion
-    - Happiness & reward
-    - Fear & stress
-- Assignments
-    - Read W&B 11:319-333, 337-344.
-- Materials
-    - [Slides]() | [PDF]()
 
 ### Thursday, March 17
 
 - Topics
-    - Emotion II
+    - Psychopathology II: Schizophrenia
     - **Quiz 3**, available on Canvas *after* class.
+- Assignments
+    - Read W&B 12:347-360.    
 
 ---
 
@@ -246,24 +224,22 @@ title: "Schedule"
 ### Tuesday, March 22
 
 - Topics
-    - Sensory systems
-    - Somatosensation I
+    - Emotion
+    - Happiness & reward
+    - Fear & stress
 - Assignments
     - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) 
-    - Read W&B 5:119-150
-    - Read W&B 11:337-347
 - Materials
     - [Slides]() | [PDF]()
 
 ### Thursday, March 24
 
 - Topics
-    - Somatosensation II
-    - Action I
+    - Emotion II
 - Assignments
 - Materials
     - [Slides]() | [PDF]()
-    
+
 ---
 
 ## Week 11, March 28 - April 1
@@ -271,22 +247,19 @@ title: "Schedule"
 ### Tuesday, March 29
 
 - Topics
-    - Action II
+    - Sensory systems
+    - Somatosensation I
+- Assignments
+    - Read W&B 5:119-150
+    - Read W&B 11:337-347
 - Materials
     - [Slides]() | [PDF]()
-    - [Exam 3 Study Guide]()
 
 ### Thursday, March 31
 
 - Topics
-    - Vision I
-    - Review for Exam 3
-- Assignments
-    - Read W&B 7:183-201
-- Materials
-    - [Slides]() | [PDF]()
-    - [Exam 3 Study Guide]() 
-
+    - **Exam 3**
+    
 ---
 
 ## Week 12, April 4-8
@@ -294,14 +267,15 @@ title: "Schedule"
 ### Tuesday, April 5
 
 - Topics
-    - **Exam 3**
-    
+    - Action I
+- Materials
+    - [Slides]() | [PDF]()
+    - [Exam 3 Study Guide]()
+
 ### Thursday, April 7
 
 - Topics
-    - Vision II
-- Assignments
-    - Read W&B 7:201-215.
+    - Action II
 - Materials
     - [Slides]() | [PDF]()
     
@@ -312,19 +286,19 @@ title: "Schedule"
 ### Tuesday, April 12
 
 - Topics
-    - Learning & memory
+    - Vision I
 - Assignments
-    - Read W&B 13:379-391.
-- **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
+    - Read W&B 7:183-201
 - Materials
     - [Slides]() | [PDF]()
+- **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
     
 ### Thursday, April 14
 
 - Topics
-    - Learning & memory II
+    - Vision II
 - Assignments
-    - Read W&B 13:392-401.
+    - Read W&B 7:201-215.
 - Materials
     - [Slides]() | [PDF]()
 
@@ -335,13 +309,20 @@ title: "Schedule"
 ### Tuesday, April 19
 
 - Topics
-    - Reproducibility in neuroscience
+    - Learning & memory
+- Assignments
+    - Read W&B 13:379-391.
+- Materials
+    - [Slides]() | [PDF]()
 
 ### Thursday, April 21
 
 - Topics
-    - **No lecture**
-    - **Quiz 4**, available on Canvas *after* class.
+    - Learning & memory II
+- Assignments
+    - Read W&B 13:392-401.
+- Materials
+    - [Slides]() | [PDF]()
 
 ---
 
@@ -351,6 +332,7 @@ title: "Schedule"
 
 - Topics
     - Speed of nervous system conduction lab
+    - **Quiz 4**, available on Canvas *after* class.
 - Materials
     - [Slides](). [PDF]().
 
