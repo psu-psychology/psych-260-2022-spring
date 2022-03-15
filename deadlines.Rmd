@@ -12,7 +12,7 @@ knitr::opts_chunk$set(cache = TRUE)
 | Thu Feb 10 | Exam 1 |
 | Tue Feb 22  | Quiz 2; [Blog post 1](blog-assignment.html) due |
 | Tue Mar 1  | Exam 2 |
-| Thu Mar 17  | Quiz 3 |
+| Tue Mar 22  | Quiz 3 |
 | Tue Mar 22 |  [Blog post 2](blog-assignment.html) due |
 | Thu March 31 | Exam 3               |
 | Tue Apr 12 | Short [paper](paper-assignment.html) or [Blog post 3](blog-assignment.html) due |

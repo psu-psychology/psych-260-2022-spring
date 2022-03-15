@@ -207,13 +207,12 @@ title: "Schedule"
 - Assignments
     - Read W&B 12:361-371
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-03-15-depression-bipolar.html) | [PDF](lectures/260-2022-03-15-depression-bipolar.pdf)
 
 ### Thursday, March 17
 
 - Topics
     - Psychopathology II: Schizophrenia
-    - **Quiz 3**, available on Canvas *after* class.
 - Assignments
     - Read W&B 12:347-360.    
 
@@ -227,6 +226,7 @@ title: "Schedule"
     - Emotion
     - Happiness & reward
     - Fear & stress
+    - **Quiz 3**, available on Canvas *after* class.
 - Assignments
     - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) 
 - Materials
@@ -318,11 +318,10 @@ title: "Schedule"
 ### Thursday, April 21
 
 - Topics
-    - Learning & memory II
-- Assignments
-    - Read W&B 13:392-401.
+    - Speed of nervous system conduction lab
+    - **Quiz 4**, available on Canvas *after* class.
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](). [PDF]().
 
 ---
 
@@ -331,10 +330,12 @@ title: "Schedule"
 ### Tuesday, April 26
 
 - Topics
-    - Speed of nervous system conduction lab
-    - **Quiz 4**, available on Canvas *after* class.
+    - Learning & memory II
+- Assignments
+    - Read W&B 13:392-401.
 - Materials
-    - [Slides](). [PDF]().
+    - [Slides]() | [PDF]()
+
 
 ### Thursday, April 28
 
