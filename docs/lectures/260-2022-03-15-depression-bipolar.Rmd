@@ -173,19 +173,13 @@ Row (a) patients v. controls, (b) patients on SSRIs, (c) patients v. ctrls (happ
 </a>
 </div>
 
-## Disrupted connectivity {.smaller}
+## Disrupted connectivity
 
 - Resting state fMRI (rsFMRI) in $n=421$ patients with major depressive disorder and $n=488$ control subjects.
 - *Reduced* connectivity between orbitofrontal cortex (OFC) and other areas of the brain
 - *Increased* connectivity between lateral PFC and other brain areas
 
 [[@cheng_medial_2016]](http://doi.org/10.1093/brain/aww255)
-
-<!-- ---- -->
-
-<!-- ```{r, fig.cap="[[@cheng_medial_2016]](http://doi.org/10.1093/brain/aww255)"} -->
-<!-- knitr::include_graphics("img/cheng-2016-F1.large-1.jpg") -->
-<!-- ``` -->
 
 ----
 
