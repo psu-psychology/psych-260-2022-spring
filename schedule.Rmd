@@ -215,6 +215,8 @@ title: "Schedule"
     - Psychopathology II: Schizophrenia
 - Assignments
     - Read W&B 12:347-360.    
+- Materials
+    - [Slides](lectures/260-2022-03-17-schizophrenia.html) | [PDF](lectures/260-2022-03-17-schizophrenia.pdf)
 
 ---
 
