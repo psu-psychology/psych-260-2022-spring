@@ -61,14 +61,13 @@ navbar:
         - text: "Week 10"
           menu:
           - text: "Tue 2022-03-22"
-            href: 
+            href: "lectures/260-2022-03-22-emotion.html"
           - text: "Thu 2022-03-24"
             href:
         - text: "Week 11"
           menu:
           - text: "Tue 2022-03-29"
             href: 
-          - text: "Thu 2022-03-31"
         - text: "Week 12"
           menu:
           - text: "Tue 2022-04-05"

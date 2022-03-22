@@ -252,8 +252,7 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 - ...can induce schizophrenia-like states
 - Schizophrenia == *underactivation* of NMDA receptors?
     - NMDA receptor role in learning, plasticity
-    - Dentate gyrus neurons in [[@jiao_transmembrane_2017]](10.1073/pnas.1618213114) were glutamate-releasing.
-    
+
 ## Early life stress increases risk
 
 - Urban vs. rural living
