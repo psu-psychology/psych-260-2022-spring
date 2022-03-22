@@ -130,6 +130,28 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/
 - Output
     - Internal states
     - External world
+    
+    
+## *Where* in the brain is emotion processed?
+
+```{r, out.height="500px", fig.cap="[[@Lindquist2012-jr]](http://dx.doi.org/10.1017/S0140525X11000446)"}
+knitr::include_graphics("https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig1g.jpeg")
+```
+
+## Locationist account
+
+> Figure 1. Locationist Hypotheses of Brain–Emotion Correspondence. A: Lateral view. B: Sagital view at the midline. C: Ventral view. D: Coronal view. Brain regions hypothesized to be associated with emotion categories are depicted. Here we depict the most popular locationist hypotheses, although other locationist hypotheses of brain–emotion correspondence exist (e.g., Panksepp, Reference Panksepp 1998). Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: ACC (blue). A color version of this image can be viewed in the online version of this target article at http://www.journals.cambridge.org/bbs.
+>
+> [[@Lindquist2012-jr]](http://dx.doi.org/10.1017/S0140525X11000446)
+
+## Constructionist account
+
+> A psychological constructionist account of emotion assumes that emotions are psychological events that emerge out of more basic psychological operations that are not specific to emotion. In this view, mental categories such as anger, sadness, fear, et cetera, are not respected by the brain (nor are emotion, perception, or cognition, for that matter.
+
+---
+
+> ...emotions emerge when people make meaning out of sensory input from the body and from the world using knowledge of prior experiences. Emotions are “situated conceptualizations” (cf. Barsalou 2003) because the emerging meaning is tailored to the immediate environment and prepares the person to respond to sensory input in a way that is tailored to the situation
+
 
 # Happiness and reward
 
