@@ -240,7 +240,7 @@ title: "Schedule"
     - Emotion II
 - Assignments
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-03-24-emotion-II.html) | [PDF](lectures/260-2022-03-24-emotion-II.pdf)
 
 ---
 
