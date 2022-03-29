@@ -1,0 +1,77 @@
+---
+title: "PSYCH 260/BBH 203"
+subtitle: "Exam 3 Review"
+author: "Rick O. Gilmore"
+date: '`r Sys.time()`'
+bibliography: bib/psych260.bib
+csl: bib/apa.csl
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    widescreen: true
+    incremental: false
+    transition: default
+  pdf_document: default
+  github_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Emotion, stress, & reward
+
+- Biological perspectives on (e.g., Plutchik)
+- Acute vs. chronic stressors
+- Nodes in fear processing/stress network
+- Nodes in 'reward' network, and some key neurotransmittershttps://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-26-emotion.html#30
+
+## Depression
+
+- Monoamine hypothesis and serotonin's presumed role
+- Treatments for
+
+## Bipolar disorder
+
+- Treatments for
+- How differs from/similar to depression, schizophrenia
+
+## Schizophrenia
+
+- Symptoms of
+- Brain abnormalities
+- Dopamine hypothesis vs.
+- Glutamate hypothesis 
+
+## Sensory systems
+
+- Topographic maps
+- Non-uniform sensitivity
+- Hierarchical processing (and thalamic relay)
+- Functional segregation
+- Receptor specialization]
+- Myelination, axon diameter & speed
+
+## Sensory systems
+
+- Primary sensory/motor areas in cortex
+- Receptive field size, cortical size, & sensory acuity
+
+## Somatosensation & pain
+
+- Touch, temperature, pain receptors in skin
+- Pathways to cortex
+
+## Neurophysiology
+
+- Events leading to neurotransmitter release
+
+## Brain evolution/development
+
+- Cortical size, brain size, human vs. other animals
+- Key pre/postnatal events in human brain development
+
+## Neuroanatomy
+
+- Cerebral ventricles
+- Lobes of the cerebral cortex
