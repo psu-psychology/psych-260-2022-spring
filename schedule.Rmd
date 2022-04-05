@@ -273,8 +273,7 @@ title: "Schedule"
     - Somatosensation II
     - Action I
 - Materials
-    - [Slides]() | [PDF]()
-    - [Exam 3 Study Guide]()
+    - [Slides](lectures/260-2022-04-05-pain-action.html) | [PDF](lectures/260-2022-04-05-pain-action.pdf)
 
 ### Thursday, April 7
 

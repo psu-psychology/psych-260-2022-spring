@@ -71,7 +71,7 @@ navbar:
         - text: "Week 12"
           menu:
           - text: "Tue 2022-04-05"
-            href: 
+            href: "lectures/260-2022-04-05-pain-action.html"
           - text: "Thu 2022-04-07"
             href: 
         - text: "Week 13"
