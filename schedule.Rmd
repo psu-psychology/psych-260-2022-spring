@@ -280,7 +280,7 @@ title: "Schedule"
 - Topics
     - Action II
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-04-07-action-II.html) | [PDF](lectures/260-2022-04-07-action-II.pdf)
     
 ---
 

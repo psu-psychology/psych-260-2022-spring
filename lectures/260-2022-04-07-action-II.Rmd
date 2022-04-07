@@ -30,74 +30,12 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE,
 
 ## Announcements
 
-- Exam 3 **next Tuesday, November 16**
-- Grading
-    - Best 3 of 4 quizzes
-    - Best 3 of 4 exams
-    - Blogs or paper
+- Blog 3 or paper due **next Tuesday, April 12, 2022**.
 
 ## Today's Topics
 
-- Wrap-up on [somatosensation](260-2021-11-04-sensation.html#46)
-- The neuroscience of action
+- The neuroscience of action, continued
 
-# Action
-
-## The neuroscience of action
-
-- What types of actions are there?
-- How are they produced?
-    + By the muscles
-    + By the nervous system
-    
-## Remember
-
-- Nervous system "output" includes
-    + Movements
-    + Autonomic responses
-    + Endocrine responses
-    
-<!-- ## Types of actions -->
-
-<!-- <div class="centered"> -->
-<!-- <img src="http://www.kidport.com/reflib/science/humanbody/muscularsystem/images/Reflexes.jpg" height=450px> -->
-
-<!-- <http://www.kidport.com/reflib/science/humanbody/muscularsystem/images/Reflexes.jpg> -->
-<!-- </div> -->
-
-## Types of actions
-
-- Reflexes
-    + Simple, highly stereotyped, unlearned, rapid
-- vs. Planned or voluntary actions
-    + Complex, flexible, acquired, slower
-- Discrete (reaching) vs. rhythmic (walking)
-- Ballistic (no feedback) vs. controlled (feedback)
-
-## Multiple, parallel controllers
-
-<div class="centered">
-<img src="img/motor-controllers-biopsych.jpg" height=450px>
-</div>
-
-## Key "nodes" in network
-
-- Primary motor cortex (M1)
-- Non-primary motor cortex
-- Basal ganglia
-- Brain stem
-- Cerebellum
-- Spinal cord
-
-## Muscle classes
-
-- Axial
-    + Trunk, neck, hips
-- Proximal
-    + Shoulder/elbow, pelvis/knee
-- Distal
-    + Hands/fingers, feet/toes
-    
 ## Muscles {.smaller}
 
 <div class="centered">
@@ -112,8 +50,9 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE,
     + Arteries, hair follicles, uterus, intestines
     + Regulated by ANS (involuntary)
 - Striated (striped)
-    + Skeletal
+    + Skeletal muscles
     + Voluntary control, mostly connected to tendons and bones
+    + Regulated by somatic branch of PNS
 - Cardiac
 
 ## Muscle types {.smaller}
@@ -126,7 +65,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE,
 
 ## How skeletal muscles contract
 
-- Motoneuron (ventral horn of spinal cord)
+- Motoneuron (in ventral horn of spinal cord) ->
 - Neuromuscular junction
     + Releases ACh
     
@@ -140,7 +79,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE,
 
 - Motor endplate
     + Contains nicotinic ACh receptor
-    + Generates excitatory endplate potential
+    + Generates excitatory endplate potential (EPP)
         + Muscle fiber depolarizes
         + Depolarization spreads along fiber
         + Causes release of Ca++ from stores inside muscle
@@ -181,10 +120,18 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE,
 <http://2.bp.blogspot.com/-TpOC4my_NBc/T0J-MhEv29I/AAAAAAAAF88/dYLv7QzFwmg/s1600/Hamstring-Quad4.jpg>
 </div>
 
+<div class="notes">
+Since muscles only contract--they don't have a 'reverse' gear--most joints have muscles that pull the joint one way and another set of muscles that pull the joint the other way. We say that one muscle group of the pair is the 'agonist' and the other the 'antagonist'.
+</div>
+
 ## Meat preference?
 
 <div class="centered">
 <img src="img/turkey.jpg" height=450px>
+</div>
+
+<div class="notes">
+Muscle fibers also differ in other ways, and these have consequences most of us don't think about like a carnivore's preference for dark or light-colored meat.
 </div>
 
 ## Muscle fiber types
@@ -384,7 +331,7 @@ Ok, let's switch to talking about disorders of the motor system. We'll start wit
 knitr::include_graphics("https://dbmmu5j6lxew.cloudfront.net/pe-dbs_fig1.jpg")
 ```
 
-## Huntington's
+## Huntington's {.smaller}
 
 <div class="centered">
 <img src="http://cp91279.biography.com/1000509261001/1000509261001_1733824754001_woody-guthrie-centennial-1.jpg" height=450px>
@@ -413,7 +360,7 @@ The second disorder of movement we'll discuss is Huntington's. The folk singer W
     - High levels of *huntingtin* protein accumulate in basal ganglia
     - People with familial risk may want to consider genetic testing
 - No effective treatment
-    - Promising gene therapy trial halted this spring [[@Kwon2021-bj]](http://dx.doi.org/10.1038/d41586-021-01177-7)
+    - Promising gene therapy trial halted last year [[@Kwon2021-bj]](http://dx.doi.org/10.1038/d41586-021-01177-7)
 
 ## Final thoughts
 
@@ -437,6 +384,5 @@ The second disorder of movement we'll discuss is Huntington's. The folk singer W
 ## Next time...
 
 - Vision
-- Review for Exam 3
 
 ## References {.smaller}
