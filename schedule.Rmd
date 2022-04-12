@@ -293,7 +293,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 7:183-201
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-04-12-vision.html) | [PDF](lectures/260-2022-04-12-vision.pdf)
 - **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
     
 ### Thursday, April 14
@@ -321,10 +321,8 @@ title: "Schedule"
 ### Thursday, April 21
 
 - Topics
-    - Speed of nervous system conduction lab
-    - **Quiz 4**, available on Canvas *after* class.
-- Materials
-    - [Slides](). [PDF]().
+    - **NO CLASS MEETING**
+    - **Quiz 4**, available on Canvas at 3:05 PM.
 
 ---
 
