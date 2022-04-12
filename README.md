@@ -9,3 +9,4 @@ Contents
 The repo contains R Markdown and supporting files required to render the site. The `/docs` directory contains the rendered HTML and supporting files.
 
 To generate the site, clone the repository to a local directory and run `rmarkdown::render_site()` from that directory.
+
