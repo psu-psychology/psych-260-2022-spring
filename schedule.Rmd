@@ -303,7 +303,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 7:201-215.
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](https://psu-psychology.github.io/psych-260-2022-spring/lectures/260-2022-04-12-vision.html#37) | [PDF](lectures/260-2022-04-12-vision.pdf)
 
 ---
 

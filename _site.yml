@@ -79,7 +79,7 @@ navbar:
           - text: "Tue 2022-04-12"
             href: "lectures/260-2022-04-12-vision.html"
           - text: "Thu 2022-04-14"
-            href: 
+            href: "lectures/260-2022-04-12-vision.html"
         - text: "Week 14"
           menu:
           - text: "Tue 2022-04-19"
