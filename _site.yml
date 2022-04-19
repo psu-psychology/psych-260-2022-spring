@@ -83,7 +83,7 @@ navbar:
         - text: "Week 14"
           menu:
           - text: "Tue 2022-04-19"
-            href: 
+            href: "lectures/260-2022-04-19-memory.html"
         - text: "Week 15"
           menu:
           - text: "Tue 2022-04-26"

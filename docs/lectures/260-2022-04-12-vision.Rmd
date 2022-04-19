@@ -522,7 +522,7 @@ Low == gist    ||     high == details
 
 ## Computer vision inspired by biological vision
 
-```{r}
+```{r, out.width="800px"}
 knitr::include_graphics("https://i2.wp.com/thedatascientist.com/wp-content/uploads/2018/03/Deep-Neural-Network-What-is-Deep-Learning-Edureka.png?fit=1926%2C987&ssl=1")
 ```
 

@@ -316,7 +316,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 13:379-391.
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-04-19-memory.html) | [PDF](lectures/260-2022-04-19-memory.pdf)
 
 ### Thursday, April 21
 
