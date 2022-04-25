@@ -335,7 +335,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 13:392-401.
 - Materials
-    - [Slides]() | [PDF]()
+    - [Slides](lectures/260-2022-04-26-memory-II.html) | [PDF](lectures/260-2022-04-26-memory-II.pdf)
 
 
 ### Thursday, April 28
@@ -351,6 +351,6 @@ title: "Schedule"
     
 ## Finals Week, May 2 - 6
 
-### TBD
+### Tuesday, May 3
 
-- **Exam 4**
+- **Exam 4**, on Canvas 12:00 pm (noon) to 10:00 pm
