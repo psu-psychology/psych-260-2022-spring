@@ -17,4 +17,4 @@ knitr::opts_chunk$set(cache = TRUE)
 | Thu March 31 | Exam 3               |
 | Tue Apr 12 | Short [paper](paper-assignment.html) or [Blog post 3](blog-assignment.html) due |
 | Thu Apr 21 | Quiz 4 |
-| TBA       | Exam 4 |
+| Tue May 3  | Exam 4 |
